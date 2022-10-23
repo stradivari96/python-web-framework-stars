@@ -9,7 +9,7 @@ Please update **list.txt** (via Pull Request)
 | [fastapi](https://github.com/tiangolo/fastapi) | 50775 | 4093 | 1549 | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 2022-10-20 11:15:56 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20814 | 5482 | 217 | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | 2022-10-15 15:40:46 |
 | [dash](https://github.com/plotly/dash) | 17525 | 1785 | 695 | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. | 2022-10-17 14:45:24 |
-| [sanic](https://github.com/sanic-org/sanic) | 16534 | 1474 | 63 | Next generation Python web server/framework | Build fast. Run fast. | 2022-10-21 11:31:22 |
+| [sanic](https://github.com/sanic-org/sanic) | 16534 | 1474 | 63 | Next generation Python web server/framework / Build fast. Run fast. | 2022-10-21 11:31:22 |
 | [aiohttp](https://github.com/aio-libs/aiohttp) | 12945 | 1818 | 469 | Asynchronous HTTP client/server framework for asyncio and Python | 2022-10-22 23:01:23 |
 | [falcon](https://github.com/falconry/falcon) | 8920 | 899 | 177 | The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. | 2022-10-10 19:16:57 |
 | [bottle](https://github.com/bottlepy/bottle) | 7781 | 1441 | 314 | bottle.py is a fast and simple micro-framework for python web-applications. | 2022-09-05 15:24:52 |
@@ -24,4 +24,4 @@ Please update **list.txt** (via Pull Request)
 | [cherrypy](https://github.com/cherrypy/cherrypy) | 1603 | 346 | 239 | CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev | 2022-07-17 20:36:25 |
 | [starlite](https://github.com/starlite-api/starlite) | 1337 | 116 | 23 | Light, Flexible and Extensible ASGI API framework | 2022-10-23 15:36:42 |
 
-*Last Automatic Update: 2022-10-23T16:13:58*
+*Last Automatic Update: 2022-10-23T16:16:28*
