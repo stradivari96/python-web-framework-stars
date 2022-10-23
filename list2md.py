@@ -7,8 +7,8 @@ head = '''# Top Python Web Frameworks
 A list of popular github projects related to Python web framework (ranked by stars automatically)
 Please update **list.txt** (via Pull Request)
 
-| Project Name | Stars | Forks | Open Issues | Description | Last Commit |
-| ------------ | ----- | ----- | ----------- | ----------- | ----------- |
+| Project Name | Stars | Open Issues | Description | Last Commit |
+| ------------ | ----- | ----------- | ----------- | ----------- |
 '''
 tail = '\n*Last Automatic Update: {}*'
 
@@ -65,7 +65,7 @@ def save_ranking(repos):
                                                                      f"![GitHub stars](https://img.shields.io/github/stars/{repo_user_and_name}.svg?style=social)",
                                                                      f"![GitHub stars](https://img.shields.io/github/issues/{repo_user_and_name}.svg)",
                                                                      repo['description'].replace("|", "/"),
-                                                                     f"![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name})")
+                                                                     f"![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name})"))
         f.write(tail.format(datetime.now().strftime('%Y-%m-%dT%H:%M:%S%Z')))
 
 
