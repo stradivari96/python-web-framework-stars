@@ -16,4 +16,8 @@ https://github.com/pyeve/eve
 https://github.com/tiangolo/fastapi
 https://github.com/starlite-api/starlite
 https://github.com/encode/starlette
+https://github.com/encode/django-rest-framework
 https://github.com/vitalik/django-ninja
+https://github.com/aio-libs/aiohttp
+https://github.com/Neoteroi/BlackSheep
+https://github.com/pallets/quart
