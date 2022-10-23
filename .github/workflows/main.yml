@@ -21,7 +21,7 @@ jobs:
         python-version: "3.10"
     - run: |
         echo ${{ secrets.GITHUB_TOKEN }} >> access_token.txt
-        pip install requests && python list2md.go
+        pip install requests && python list2md.py
     - name: update the list
       env:
         GITHUB_USER: "stradivari96"
