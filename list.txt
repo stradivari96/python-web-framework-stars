@@ -1,23 +1,22 @@
-https://github.com/django/django
-https://github.com/pallets/flask
-https://github.com/tornadoweb/tornado
-https://github.com/Pylons/pyramid
-https://github.com/falconry/falcon
-https://github.com/web2py/web2py
-https://github.com/bottlepy/bottle
-https://github.com/cherrypy/cherrypy
-https://github.com/channelcat/sanic
-https://github.com/aio-libs/aiohttp
-https://github.com/plotly/dash
-https://github.com/timothycrosley/hug
-https://github.com/vibora-io/vibora
-https://github.com/MasoniteFramework/masonite
-https://github.com/pyeve/eve
-https://github.com/tiangolo/fastapi
-https://github.com/starlite-api/starlite
-https://github.com/encode/starlette
-https://github.com/encode/django-rest-framework
-https://github.com/vitalik/django-ninja
-https://github.com/aio-libs/aiohttp
-https://github.com/Neoteroi/BlackSheep
-https://github.com/pallets/quart
+https://github.com/MasoniteFramework/masonite masonite
+https://github.com/Neoteroi/BlackSheep blacksheep
+https://github.com/Pylons/pyramid pyramid
+https://github.com/aio-libs/aiohttp aiohttp
+https://github.com/bottlepy/bottle bottle
+https://github.com/channelcat/sanic sanic
+https://github.com/cherrypy/cherrypy CherryPy
+https://github.com/django/django Django
+https://github.com/encode/django-rest-framework djangorestframework
+https://github.com/encode/starlette starlette
+https://github.com/falconry/falcon falcon
+https://github.com/pallets/flask Flask
+https://github.com/pallets/quart quart
+https://github.com/plotly/dash dash
+https://github.com/pyeve/eve Eve
+https://github.com/starlite-api/starlite starlite
+https://github.com/tiangolo/fastapi fastapi
+https://github.com/timothycrosley/hug hug
+https://github.com/tornadoweb/tornado tornado
+https://github.com/vibora-io/vibora vibora
+https://github.com/vitalik/django-ninja django-ninja
+https://github.com/web2py/web2py -

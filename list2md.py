@@ -21,7 +21,7 @@ def main():
 
     with open('list.txt', 'r') as f:
         for url in f.readlines():
-            url = url.strip()
+            url, pypi_name = url.strip().split(' ')
             if url.startswith('https://github.com/'):
                 repo_api = 'https://api.github.com/repos/{}'.format(url[19:])
                 print(repo_api)
@@ -30,6 +30,7 @@ def main():
                 if r.status_code != 200:
                     raise ValueError('Can not retrieve from {}'.format(url))
                 repo = json.loads(r.content)
+                repo["pypi_name"] = pypi_name
 
                 commit_api = 'https://api.github.com/repos/{}/commits/{}'.format(url[19:], repo['default_branch'])
                 print(repo_api)
@@ -40,7 +41,7 @@ def main():
                 commit = json.loads(r.content)
 
                 repo['last_commit_date'] = commit['commit']['committer']['date']
-                if r['stargazers_count'] >= 1_000:
+                if repo['stargazers_count'] >= 1_000:
                     repos.append(repo)
 
         repos.sort(key=lambda r: r['stargazers_count'], reverse=True)
@@ -61,7 +62,10 @@ def save_ranking(repos):
             repo_user_and_name = '/'.join(repo['html_url'].split('/')[-2:])
             f.write(f"- [{repo['name']}]({repo['html_url']}): {repo['description']} \n\n  ")
             f.write(f"![GitHub stars](https://img.shields.io/github/stars/{repo_user_and_name}.svg?style=social) ")
-            f.write(f"![GitHub issues](https://img.shields.io/github/issues/{repo_user_and_name}.svg) ")
+            if repo['open_issues_count']:
+                f.write(f"![GitHub issues](https://img.shields.io/github/issues/{repo_user_and_name}.svg) ")
+            if repo['pypi_name'] != "-":
+                f.write(f"![Downloads](https://img.shields.io/pypi/dw/{repo['pypi_name']})] ")
             f.write(f"![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name}) ")
             f.write("\n")
         f.write(tail.format(datetime.now().strftime('%Y-%m-%dT%H:%M:%S%Z')))
