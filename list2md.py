@@ -39,7 +39,6 @@ def main():
                 commit = json.loads(r.content)
 
                 repo['last_commit_date'] = commit['commit']['committer']['date']
-                print(repo)
                 if repo['stargazers_count'] >= 1_000:
                     repos.append(repo)
 
@@ -61,8 +60,7 @@ def save_ranking(repos):
             repo_user_and_name = '/'.join(repo['html_url'].split('/')[-2:])
             f.write(f"- [{repo['name']}]({repo['html_url']}): {repo['description']} \n\n  ")
             f.write(f"![GitHub stars](https://img.shields.io/github/stars/{repo_user_and_name}.svg?style=social) ")
-            if repo['open_issues_count']:
-                f.write(f"![GitHub issues](https://img.shields.io/github/issues/{repo_user_and_name}.svg) ")
+            f.write(f"![GitHub issues](https://img.shields.io/github/issues/{repo_user_and_name}.svg) ")
             if repo['pypi_name'] != "-":
                 f.write(f"![Downloads](https://img.shields.io/pypi/dw/{repo['pypi_name']}) ")
             f.write(f"![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name}) ")
