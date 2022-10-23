@@ -14,6 +14,9 @@ Please update **list.txt** (via Pull Request)
 - [django-rest-framework](https://github.com/encode/django-rest-framework): Web APIs for Django. 🎸 
 
   ![GitHub stars](https://img.shields.io/github/stars/encode/django-rest-framework.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/encode/django-rest-framework.svg) ![Downloads](https://img.shields.io/pypi/dw/djangorestframework) ![GitHub last commit](https://img.shields.io/github/last-commit/encode/django-rest-framework) 
+- [streamlit](https://github.com/streamlit/streamlit): Streamlit — The fastest way to build data apps in Python 
+
+  ![GitHub stars](https://img.shields.io/github/stars/streamlit/streamlit.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/streamlit/streamlit.svg) ![Downloads](https://img.shields.io/pypi/dw/streamlit) ![GitHub last commit](https://img.shields.io/github/last-commit/streamlit/streamlit) 
 - [tornado](https://github.com/tornadoweb/tornado): Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. 
 
   ![GitHub stars](https://img.shields.io/github/stars/tornadoweb/tornado.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/tornadoweb/tornado.svg) ![Downloads](https://img.shields.io/pypi/dw/tornado) ![GitHub last commit](https://img.shields.io/github/last-commit/tornadoweb/tornado) 
@@ -35,15 +38,9 @@ Please update **list.txt** (via Pull Request)
 - [starlette](https://github.com/encode/starlette): The little ASGI framework that shines. 🌟 
 
   ![GitHub stars](https://img.shields.io/github/stars/encode/starlette.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/encode/starlette.svg) ![Downloads](https://img.shields.io/pypi/dw/starlette) ![GitHub last commit](https://img.shields.io/github/last-commit/encode/starlette) 
-- [hug](https://github.com/hugapi/hug): Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler. 
-
-  ![GitHub stars](https://img.shields.io/github/stars/hugapi/hug.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/hugapi/hug.svg) ![Downloads](https://img.shields.io/pypi/dw/hug) ![GitHub last commit](https://img.shields.io/github/last-commit/hugapi/hug) 
 - [eve](https://github.com/pyeve/eve): REST API framework designed for human beings 
 
   ![GitHub stars](https://img.shields.io/github/stars/pyeve/eve.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/pyeve/eve.svg) ![Downloads](https://img.shields.io/pypi/dw/Eve) ![GitHub last commit](https://img.shields.io/github/last-commit/pyeve/eve) 
-- [vibora](https://github.com/vibora-io/vibora): Fast, asynchronous and elegant Python web framework. 
-
-  ![GitHub stars](https://img.shields.io/github/stars/vibora-io/vibora.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/vibora-io/vibora.svg) ![Downloads](https://img.shields.io/pypi/dw/vibora) ![GitHub last commit](https://img.shields.io/github/last-commit/vibora-io/vibora) 
 - [pyramid](https://github.com/Pylons/pyramid): Pyramid - A Python web framework 
 
   ![GitHub stars](https://img.shields.io/github/stars/Pylons/pyramid.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/Pylons/pyramid.svg) ![Downloads](https://img.shields.io/pypi/dw/pyramid) ![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/pyramid) 
@@ -68,5 +65,13 @@ Please update **list.txt** (via Pull Request)
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web framework for Python 
 
   ![GitHub stars](https://img.shields.io/github/stars/Neoteroi/BlackSheep.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/Neoteroi/BlackSheep.svg) ![Downloads](https://img.shields.io/pypi/dw/blacksheep) ![GitHub last commit](https://img.shields.io/github/last-commit/Neoteroi/BlackSheep) 
+⚠️ No longer maintained ⚠️
 
-*Last Automatic Update: 2022-10-23T17:51:03*
+- [hug](https://github.com/hugapi/hug): Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler. 
+
+  ![GitHub stars](https://img.shields.io/github/stars/hugapi/hug.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/hugapi/hug.svg) ![Downloads](https://img.shields.io/pypi/dw/hug) ![GitHub last commit](https://img.shields.io/github/last-commit/hugapi/hug) 
+- [vibora](https://github.com/vibora-io/vibora): Fast, asynchronous and elegant Python web framework. 
+
+  ![GitHub stars](https://img.shields.io/github/stars/vibora-io/vibora.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/vibora-io/vibora.svg) ![Downloads](https://img.shields.io/pypi/dw/vibora) ![GitHub last commit](https://img.shields.io/github/last-commit/vibora-io/vibora) 
+
+*Last Automatic Update: 2022-10-23T22:13:16*
