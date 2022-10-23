@@ -60,4 +60,4 @@ Please update **list.txt** (via Pull Request)
 
   ![GitHub stars](https://img.shields.io/github/stars/starlite-api/starlite.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/starlite-api/starlite.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/starlite-api/starlite) 
 
-*Last Automatic Update: 2022-10-23T16:47:19*
+*Last Automatic Update: 2022-10-23T16:53:57*
