@@ -10,7 +10,7 @@ Please update **list.txt** (via Pull Request)
 '''
 tail = '\n*Last Automatic Update: {}*'
 
-warning = "⚠️ No longer maintained ⚠️\n\n"
+warning = "\n⚠️ No longer maintained ⚠️\n\n"
 
 deprecated_repos = list()
 repos = list()
