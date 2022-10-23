@@ -59,13 +59,13 @@ def save_ranking(repos):
         for repo in repos:
             if is_deprecated(repo['url']):
                 repo['description'] = warning + repo['description']
-            f.write('| [{}]({}) | {} | {} | {} | {} | {} |\n'.format(repo['name'],
+            repo_user_and_name = '/'.join(repo['html_url'].split('/')[-2:])
+            f.write('| [{}]({}) | {} | {} | {} | {} |\n'.format(repo['name'],
                                                                      repo['html_url'],
-                                                                     repo['stargazers_count'],
-                                                                     repo['forks_count'],
-                                                                     repo['open_issues_count'],
+                                                                     f"![GitHub stars](https://img.shields.io/github/stars/{repo_user_and_name}.svg?style=social)",
+                                                                     f"![GitHub stars](https://img.shields.io/github/issues/{repo_user_and_name}.svg)",
                                                                      repo['description'].replace("|", "/"),
-                                                                     datetime.strptime(repo['last_commit_date'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d %H:%M:%S')))
+                                                                     f"![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name})")
         f.write(tail.format(datetime.now().strftime('%Y-%m-%dT%H:%M:%S%Z')))
 
 
