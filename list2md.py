@@ -64,7 +64,7 @@ def save_ranking(repos):
                                                                      repo['stargazers_count'],
                                                                      repo['forks_count'],
                                                                      repo['open_issues_count'],
-                                                                     repo['description'],
+                                                                     repo['description'].replace("|", "/"),
                                                                      datetime.strptime(repo['last_commit_date'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d %H:%M:%S')))
         f.write(tail.format(datetime.now().strftime('%Y-%m-%dT%H:%M:%S%Z')))
 
