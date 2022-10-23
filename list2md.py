@@ -65,7 +65,7 @@ def save_ranking(repos):
             if repo['open_issues_count']:
                 f.write(f"![GitHub issues](https://img.shields.io/github/issues/{repo_user_and_name}.svg) ")
             if repo['pypi_name'] != "-":
-                f.write(f"![Downloads](https://img.shields.io/pypi/dw/{repo['pypi_name']})] ")
+                f.write(f"![Downloads](https://img.shields.io/pypi/dw/{repo['pypi_name']}) ")
             f.write(f"![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name}) ")
             f.write("\n")
         f.write(tail.format(datetime.now().strftime('%Y-%m-%dT%H:%M:%S%Z')))
