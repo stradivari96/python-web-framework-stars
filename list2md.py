@@ -24,7 +24,6 @@ def main():
             url, pypi_name = url.strip().split(' ')
             if url.startswith('https://github.com/'):
                 repo_api = 'https://api.github.com/repos/{}'.format(url[19:])
-                print(repo_api)
 
                 r = requests.get(repo_api, headers={'Authorization': 'token {}'.format(access_token)})
                 if r.status_code != 200:
@@ -33,7 +32,6 @@ def main():
                 repo["pypi_name"] = pypi_name
 
                 commit_api = 'https://api.github.com/repos/{}/commits/{}'.format(url[19:], repo['default_branch'])
-                print(repo_api)
 
                 r = requests.get(commit_api, headers={'Authorization': 'token {}'.format(access_token)})
                 if r.status_code != 200:
@@ -41,6 +39,7 @@ def main():
                 commit = json.loads(r.content)
 
                 repo['last_commit_date'] = commit['commit']['committer']['date']
+                print(repo)
                 if repo['stargazers_count'] >= 1_000:
                     repos.append(repo)
 
