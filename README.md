@@ -11,6 +11,9 @@ Please update **list.txt** (via Pull Request)
 - [fastapi](https://github.com/tiangolo/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production 
 
   ![GitHub stars](https://img.shields.io/github/stars/tiangolo/fastapi.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/tiangolo/fastapi.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/tiangolo/fastapi) 
+- [django-rest-framework](https://github.com/encode/django-rest-framework): Web APIs for Django. 🎸 
+
+  ![GitHub stars](https://img.shields.io/github/stars/encode/django-rest-framework.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/encode/django-rest-framework.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/encode/django-rest-framework) 
 - [tornado](https://github.com/tornadoweb/tornado): Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. 
 
   ![GitHub stars](https://img.shields.io/github/stars/tornadoweb/tornado.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/tornadoweb/tornado.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/tornadoweb/tornado) 
@@ -20,6 +23,9 @@ Please update **list.txt** (via Pull Request)
 - [sanic](https://github.com/sanic-org/sanic): Next generation Python web server/framework | Build fast. Run fast. 
 
   ![GitHub stars](https://img.shields.io/github/stars/sanic-org/sanic.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/sanic-org/sanic.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/sanic-org/sanic) 
+- [aiohttp](https://github.com/aio-libs/aiohttp): Asynchronous HTTP client/server framework for asyncio and Python 
+
+  ![GitHub stars](https://img.shields.io/github/stars/aio-libs/aiohttp.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/aio-libs/aiohttp.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/aio-libs/aiohttp) 
 - [aiohttp](https://github.com/aio-libs/aiohttp): Asynchronous HTTP client/server framework for asyncio and Python 
 
   ![GitHub stars](https://img.shields.io/github/stars/aio-libs/aiohttp.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/aio-libs/aiohttp.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/aio-libs/aiohttp) 
@@ -56,8 +62,14 @@ Please update **list.txt** (via Pull Request)
 - [cherrypy](https://github.com/cherrypy/cherrypy): CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev 
 
   ![GitHub stars](https://img.shields.io/github/stars/cherrypy/cherrypy.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/cherrypy/cherrypy.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/cherrypy/cherrypy) 
+- [quart](https://github.com/pallets/quart): An async Python micro framework for building web applications.  
+
+  ![GitHub stars](https://img.shields.io/github/stars/pallets/quart.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/pallets/quart.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/quart) 
 - [starlite](https://github.com/starlite-api/starlite): Light, Flexible and Extensible ASGI API framework 
 
   ![GitHub stars](https://img.shields.io/github/stars/starlite-api/starlite.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/starlite-api/starlite.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/starlite-api/starlite) 
+- [BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web framework for Python 
 
-*Last Automatic Update: 2022-10-23T16:53:57*
+  ![GitHub stars](https://img.shields.io/github/stars/Neoteroi/BlackSheep.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/Neoteroi/BlackSheep.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/Neoteroi/BlackSheep) 
+
+*Last Automatic Update: 2022-10-23T17:00:41*
