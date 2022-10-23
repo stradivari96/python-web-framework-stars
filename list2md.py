@@ -70,11 +70,11 @@ def repo_text(repo):
     repo_user_and_name = '/'.join(repo['html_url'].split('/')[-2:])
     text = ""
     text += f"- [{repo['name']}]({repo['html_url']}): {repo['description']} \n\n  "
-    text += f"![GitHub stars](https://img.shields.io/github/stars/{repo_user_and_name}.svg?style=social) "
-    text += f"![GitHub issues](https://img.shields.io/github/issues/{repo_user_and_name}.svg) "
+    text += f"[![GitHub stars](https://img.shields.io/github/stars/{repo_user_and_name}.svg?style=social)]({repo['html_url']}) "
+    text += f"[![GitHub issues](https://img.shields.io/github/issues/{repo_user_and_name}.svg)]({repo['html_url']}/issues) "
     if repo['pypi_name'] != "-":
-        text += f"![Downloads](https://img.shields.io/pypi/dw/{repo['pypi_name']}) "
-    text += f"![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name}) "
+        text += f"[![Downloads](https://img.shields.io/pypi/dw/{repo['pypi_name']})](https://pypi.org/project/{repo['pypi_name']}/) "
+    text += f"[![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name})]({repo['html_url']}/commits) "
     text += "\n"
     return text
 
