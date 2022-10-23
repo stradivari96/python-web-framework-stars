@@ -40,7 +40,8 @@ def main():
                 commit = json.loads(r.content)
 
                 repo['last_commit_date'] = commit['commit']['committer']['date']
-                repos.append(repo)
+                if r['stargazers_count'] >= 1_000:
+                    repos.append(repo)
 
         repos.sort(key=lambda r: r['stargazers_count'], reverse=True)
         save_ranking(repos)
