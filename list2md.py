@@ -10,7 +10,7 @@ Please update **list.txt** (via Pull Request)
 '''
 tail = '\n*Last Automatic Update: {}*'
 
-warning = "⚠️ No longer maintained ⚠️  "
+warning = "⚠️ No longer maintained ⚠️\n\n"
 
 deprecated_repos = list()
 repos = list()
@@ -38,7 +38,7 @@ def main():
                     raise ValueError('Can not retrieve from {}'.format(url))
                 commit = json.loads(r.content)
 
-                repo['last_commit_date'] = commit['commit']['committer']['date']
+                repo['last_commit_date'] = datetime.fromisoformat(commit['commit']['committer']['date'][:-1])
                 if repo['stargazers_count'] >= 1_000:
                     repos.append(repo)
 
@@ -54,22 +54,29 @@ def get_access_token():
 def save_ranking(repos):
     with open('README.md', 'w') as f:
         f.write(head)
-        for repo in repos:
-            if is_deprecated(repo['url']):
-                repo['description'] = warning + repo['description']
-            repo_user_and_name = '/'.join(repo['html_url'].split('/')[-2:])
-            f.write(f"- [{repo['name']}]({repo['html_url']}): {repo['description']} \n\n  ")
-            f.write(f"![GitHub stars](https://img.shields.io/github/stars/{repo_user_and_name}.svg?style=social) ")
-            f.write(f"![GitHub issues](https://img.shields.io/github/issues/{repo_user_and_name}.svg) ")
-            if repo['pypi_name'] != "-":
-                f.write(f"![Downloads](https://img.shields.io/pypi/dw/{repo['pypi_name']}) ")
-            f.write(f"![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name}) ")
-            f.write("\n")
+        for repo in (r for r in repos if not(is_deprecated(r))):
+            f.write(repo_text(repo))
+        f.write(warning)
+        for repo in (r for r in repos if is_deprecated(r)):
+            f.write(repo_text(repo))
         f.write(tail.format(datetime.now().strftime('%Y-%m-%dT%H:%M:%S%Z')))
 
 
-def is_deprecated(repo_url):
-    return repo_url in deprecated_repos
+def is_deprecated(repo):
+    return repo["url"] in deprecated_repos or (datetime.now() - repo['last_commit_date']).days > 365
+
+
+def repo_text(repo):
+    repo_user_and_name = '/'.join(repo['html_url'].split('/')[-2:])
+    text = ""
+    text += f"- [{repo['name']}]({repo['html_url']}): {repo['description']} \n\n  "
+    text += f"![GitHub stars](https://img.shields.io/github/stars/{repo_user_and_name}.svg?style=social) "
+    text += f"![GitHub issues](https://img.shields.io/github/issues/{repo_user_and_name}.svg) "
+    if repo['pypi_name'] != "-":
+        text += f"![Downloads](https://img.shields.io/pypi/dw/{repo['pypi_name']}) "
+    text += f"![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name}) "
+    text += "\n"
+    return text
 
 
 if __name__ == '__main__':

@@ -14,6 +14,7 @@ https://github.com/pallets/quart quart
 https://github.com/plotly/dash dash
 https://github.com/pyeve/eve Eve
 https://github.com/starlite-api/starlite starlite
+https://github.com/streamlit/streamlit streamlit
 https://github.com/tiangolo/fastapi fastapi
 https://github.com/timothycrosley/hug hug
 https://github.com/tornadoweb/tornado tornado
