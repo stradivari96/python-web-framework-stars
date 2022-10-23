@@ -65,6 +65,7 @@ Please update **list.txt** (via Pull Request)
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web framework for Python 
 
   ![GitHub stars](https://img.shields.io/github/stars/Neoteroi/BlackSheep.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/Neoteroi/BlackSheep.svg) ![Downloads](https://img.shields.io/pypi/dw/blacksheep) ![GitHub last commit](https://img.shields.io/github/last-commit/Neoteroi/BlackSheep) 
+
 ⚠️ No longer maintained ⚠️
 
 - [hug](https://github.com/hugapi/hug): Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler. 
@@ -74,4 +75,4 @@ Please update **list.txt** (via Pull Request)
 
   ![GitHub stars](https://img.shields.io/github/stars/vibora-io/vibora.svg?style=social) ![GitHub issues](https://img.shields.io/github/issues/vibora-io/vibora.svg) ![Downloads](https://img.shields.io/pypi/dw/vibora) ![GitHub last commit](https://img.shields.io/github/last-commit/vibora-io/vibora) 
 
-*Last Automatic Update: 2022-10-23T22:13:16*
+*Last Automatic Update: 2022-10-23T22:15:18*
