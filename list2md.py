@@ -58,10 +58,10 @@ def save_ranking(repos):
             if is_deprecated(repo['url']):
                 repo['description'] = warning + repo['description']
             repo_user_and_name = '/'.join(repo['html_url'].split('/')[-2:])
-            f.write(f"- [{repo['name']}]({repo['html_url']}): {repo['description']} ")
-            f.write(f"![GitHub stars](https://img.shields.io/github/stars/{repo_user_and_name}.svg?style=social)")
-            f.write(f"![GitHub issues](https://img.shields.io/github/issues/{repo_user_and_name}.svg)")
-            f.write(f"![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name})")
+            f.write(f"- [{repo['name']}]({repo['html_url']}): {repo['description']} \n\n  ")
+            f.write(f"![GitHub stars](https://img.shields.io/github/stars/{repo_user_and_name}.svg?style=social) ")
+            f.write(f"![GitHub issues](https://img.shields.io/github/issues/{repo_user_and_name}.svg) ")
+            f.write(f"![GitHub last commit](https://img.shields.io/github/last-commit/{repo_user_and_name}) ")
             f.write("\n")
         f.write(tail.format(datetime.now().strftime('%Y-%m-%dT%H:%M:%S%Z')))
 
