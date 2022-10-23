@@ -25,18 +25,18 @@ def main():
         for url in f.readlines():
             url = url.strip()
             if url.startswith('https://github.com/'):
-                repo_api = 'https://api.github.com/repos/{}?access_token={}'.format(url[19:], access_token)
+                repo_api = 'https://api.github.com/repos/{}'.format(url[19:])
                 print(repo_api)
 
-                r = requests.get(repo_api)
+                r = requests.get(repo_api, headers={'Authorization': 'token {}'.format(access_token)})
                 if r.status_code != 200:
                     raise ValueError('Can not retrieve from {}'.format(url))
                 repo = json.loads(r.content)
 
-                commit_api = 'https://api.github.com/repos/{}/commits/{}?access_token={}'.format(url[19:], repo['default_branch'], access_token)
+                commit_api = 'https://api.github.com/repos/{}/commits/{}'.format(url[19:], repo['default_branch'])
                 print(repo_api)
 
-                r = requests.get(commit_api)
+                r = requests.get(commit_api, headers={'Authorization': 'token {}'.format(access_token)})
                 if r.status_code != 200:
                     raise ValueError('Can not retrieve from {}'.format(url))
                 commit = json.loads(r.content)
