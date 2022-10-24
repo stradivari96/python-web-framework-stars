@@ -41,6 +41,9 @@ Please update **list.txt** (via Pull Request)
 - [eve](https://github.com/pyeve/eve): REST API framework designed for human beings 
 
   [![GitHub stars](https://img.shields.io/github/stars/pyeve/eve.svg?style=social)](https://github.com/pyeve/eve) [![GitHub issues](https://img.shields.io/github/issues/pyeve/eve.svg)](https://github.com/pyeve/eve/issues) [![Downloads](https://img.shields.io/pypi/dw/Eve)](https://pypi.org/project/Eve/) [![GitHub last commit](https://img.shields.io/github/last-commit/pyeve/eve)](https://github.com/pyeve/eve/commits) 
+- [django-tastypie](https://github.com/django-tastypie/django-tastypie): Creating delicious APIs for Django apps since 2010. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/django-tastypie/django-tastypie.svg?style=social)](https://github.com/django-tastypie/django-tastypie) [![GitHub issues](https://img.shields.io/github/issues/django-tastypie/django-tastypie.svg)](https://github.com/django-tastypie/django-tastypie/issues) [![Downloads](https://img.shields.io/pypi/dw/django-tastypie)](https://pypi.org/project/django-tastypie/) [![GitHub last commit](https://img.shields.io/github/last-commit/django-tastypie/django-tastypie)](https://github.com/django-tastypie/django-tastypie/commits) 
 - [pyramid](https://github.com/Pylons/pyramid): Pyramid - A Python web framework 
 
   [![GitHub stars](https://img.shields.io/github/stars/Pylons/pyramid.svg?style=social)](https://github.com/Pylons/pyramid) [![GitHub issues](https://img.shields.io/github/issues/Pylons/pyramid.svg)](https://github.com/Pylons/pyramid/issues) [![Downloads](https://img.shields.io/pypi/dw/pyramid)](https://pypi.org/project/pyramid/) [![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/pyramid)](https://github.com/Pylons/pyramid/commits) 
@@ -62,6 +65,9 @@ Please update **list.txt** (via Pull Request)
 - [quart](https://github.com/pallets/quart): An async Python micro framework for building web applications.  
 
   [![GitHub stars](https://img.shields.io/github/stars/pallets/quart.svg?style=social)](https://github.com/pallets/quart) [![GitHub issues](https://img.shields.io/github/issues/pallets/quart.svg)](https://github.com/pallets/quart/issues) [![Downloads](https://img.shields.io/pypi/dw/quart)](https://pypi.org/project/quart/) [![GitHub last commit](https://img.shields.io/github/last-commit/pallets/quart)](https://github.com/pallets/quart/commits) 
+- [flask-api](https://github.com/flask-api/flask-api): Browsable web APIs for Flask. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 - [starlite](https://github.com/starlite-api/starlite): Light, Flexible and Extensible ASGI API framework 
 
   [![GitHub stars](https://img.shields.io/github/stars/starlite-api/starlite.svg?style=social)](https://github.com/starlite-api/starlite) [![GitHub issues](https://img.shields.io/github/issues/starlite-api/starlite.svg)](https://github.com/starlite-api/starlite/issues) [![Downloads](https://img.shields.io/pypi/dw/starlite)](https://pypi.org/project/starlite/) [![GitHub last commit](https://img.shields.io/github/last-commit/starlite-api/starlite)](https://github.com/starlite-api/starlite/commits) 
@@ -78,4 +84,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/vibora-io/vibora.svg?style=social)](https://github.com/vibora-io/vibora) [![GitHub issues](https://img.shields.io/github/issues/vibora-io/vibora.svg)](https://github.com/vibora-io/vibora/issues) [![Downloads](https://img.shields.io/pypi/dw/vibora)](https://pypi.org/project/vibora/) [![GitHub last commit](https://img.shields.io/github/last-commit/vibora-io/vibora)](https://github.com/vibora-io/vibora/commits) 
 
-*Last Automatic Update: 2022-10-24T00:09:45*
+*Last Automatic Update: 2022-10-24T00:22:04*
