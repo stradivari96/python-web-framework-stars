@@ -65,7 +65,7 @@ def save_ranking(repos):
 
 
 def is_deprecated(repo):
-    return repo["url"] in deprecated_repos or (datetime.now() - repo['last_commit_date']).days > 365
+    return repo["html_url"] in deprecated_repos or (datetime.now() - repo['last_commit_date']).days > 365
 
 
 def repo_text(repo):
