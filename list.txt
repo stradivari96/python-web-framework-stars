@@ -6,9 +6,11 @@ https://github.com/bottlepy/bottle bottle
 https://github.com/channelcat/sanic sanic
 https://github.com/cherrypy/cherrypy CherryPy
 https://github.com/django/django Django
+https://github.com/django-tastypie/django-tastypie django-tastypie
 https://github.com/encode/django-rest-framework djangorestframework
 https://github.com/encode/starlette starlette
 https://github.com/falconry/falcon falcon
+https://github.com/flask-api/flask-api Flask-API
 https://github.com/pallets/flask Flask
 https://github.com/pallets/quart quart
 https://github.com/plotly/dash dash
