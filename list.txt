@@ -13,6 +13,7 @@ https://github.com/pallets/flask Flask
 https://github.com/pallets/quart quart
 https://github.com/plotly/dash dash
 https://github.com/pyeve/eve Eve
+https://github.com/python-restx/flask-restx flask-restx
 https://github.com/starlite-api/starlite starlite
 https://github.com/streamlit/streamlit streamlit
 https://github.com/tiangolo/fastapi fastapi
