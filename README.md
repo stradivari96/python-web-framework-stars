@@ -11,6 +11,9 @@ Please update **list.txt** (via Pull Request)
 - [fastapi](https://github.com/tiangolo/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production 
 
   [![GitHub stars](https://img.shields.io/github/stars/tiangolo/fastapi.svg?style=social)](https://github.com/tiangolo/fastapi) [![GitHub issues](https://img.shields.io/github/issues/tiangolo/fastapi.svg)](https://github.com/tiangolo/fastapi/issues) [![Downloads](https://img.shields.io/pypi/dw/fastapi)](https://pypi.org/project/fastapi/) [![GitHub last commit](https://img.shields.io/github/last-commit/tiangolo/fastapi)](https://github.com/tiangolo/fastapi/commits) 
+- [serverless](https://github.com/serverless/serverless): ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –  
+
+  [![GitHub stars](https://img.shields.io/github/stars/serverless/serverless.svg?style=social)](https://github.com/serverless/serverless) [![GitHub issues](https://img.shields.io/github/issues/serverless/serverless.svg)](https://github.com/serverless/serverless/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/serverless/serverless)](https://github.com/serverless/serverless/commits) 
 - [django-rest-framework](https://github.com/encode/django-rest-framework): Web APIs for Django. 🎸 
 
   [![GitHub stars](https://img.shields.io/github/stars/encode/django-rest-framework.svg?style=social)](https://github.com/encode/django-rest-framework) [![GitHub issues](https://img.shields.io/github/issues/encode/django-rest-framework.svg)](https://github.com/encode/django-rest-framework/issues) [![Downloads](https://img.shields.io/pypi/dw/djangorestframework)](https://pypi.org/project/djangorestframework/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/django-rest-framework)](https://github.com/encode/django-rest-framework/commits) 
@@ -29,6 +32,9 @@ Please update **list.txt** (via Pull Request)
 - [aiohttp](https://github.com/aio-libs/aiohttp): Asynchronous HTTP client/server framework for asyncio and Python 
 
   [![GitHub stars](https://img.shields.io/github/stars/aio-libs/aiohttp.svg?style=social)](https://github.com/aio-libs/aiohttp) [![GitHub issues](https://img.shields.io/github/issues/aio-libs/aiohttp.svg)](https://github.com/aio-libs/aiohttp/issues) [![Downloads](https://img.shields.io/pypi/dw/aiohttp)](https://pypi.org/project/aiohttp/) [![GitHub last commit](https://img.shields.io/github/last-commit/aio-libs/aiohttp)](https://github.com/aio-libs/aiohttp/commits) 
+- [chalice](https://github.com/aws/chalice): Python Serverless Microframework for AWS 
+
+  [![GitHub stars](https://img.shields.io/github/stars/aws/chalice.svg?style=social)](https://github.com/aws/chalice) [![GitHub issues](https://img.shields.io/github/issues/aws/chalice.svg)](https://github.com/aws/chalice/issues) [![Downloads](https://img.shields.io/pypi/dw/chalice)](https://pypi.org/project/chalice/) [![GitHub last commit](https://img.shields.io/github/last-commit/aws/chalice)](https://github.com/aws/chalice/commits) 
 - [falcon](https://github.com/falconry/falcon): The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. 
 
   [![GitHub stars](https://img.shields.io/github/stars/falconry/falcon.svg?style=social)](https://github.com/falconry/falcon) [![GitHub issues](https://img.shields.io/github/issues/falconry/falcon.svg)](https://github.com/falconry/falcon/issues) [![Downloads](https://img.shields.io/pypi/dw/falcon)](https://pypi.org/project/falcon/) [![GitHub last commit](https://img.shields.io/github/last-commit/falconry/falcon)](https://github.com/falconry/falcon/commits) 
@@ -84,4 +90,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/vibora-io/vibora.svg?style=social)](https://github.com/vibora-io/vibora) [![GitHub issues](https://img.shields.io/github/issues/vibora-io/vibora.svg)](https://github.com/vibora-io/vibora/issues) [![Downloads](https://img.shields.io/pypi/dw/vibora)](https://pypi.org/project/vibora/) [![GitHub last commit](https://img.shields.io/github/last-commit/vibora-io/vibora)](https://github.com/vibora-io/vibora/commits) 
 
-*Last Automatic Update: 2022-10-24T00:22:04*
+*Last Automatic Update: 2022-10-24T00:28:20*
