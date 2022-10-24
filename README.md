@@ -74,9 +74,6 @@ Please update **list.txt** (via Pull Request)
 - [quart](https://github.com/pallets/quart): An async Python micro framework for building web applications.  
 
   [![GitHub stars](https://img.shields.io/github/stars/pallets/quart.svg?style=social)](https://github.com/pallets/quart) [![GitHub issues](https://img.shields.io/github/issues/pallets/quart.svg)](https://github.com/pallets/quart/issues) [![Downloads](https://img.shields.io/pypi/dw/quart)](https://pypi.org/project/quart/) [![GitHub last commit](https://img.shields.io/github/last-commit/pallets/quart)](https://github.com/pallets/quart/commits) 
-- [flask-api](https://github.com/flask-api/flask-api): Browsable web APIs for Flask. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 - [starlite](https://github.com/starlite-api/starlite): Light, Flexible and Extensible ASGI API framework 
 
   [![GitHub stars](https://img.shields.io/github/stars/starlite-api/starlite.svg?style=social)](https://github.com/starlite-api/starlite) [![GitHub issues](https://img.shields.io/github/issues/starlite-api/starlite.svg)](https://github.com/starlite-api/starlite/issues) [![Downloads](https://img.shields.io/pypi/dw/starlite)](https://pypi.org/project/starlite/) [![GitHub last commit](https://img.shields.io/github/last-commit/starlite-api/starlite)](https://github.com/starlite-api/starlite/commits) 
@@ -92,5 +89,8 @@ Please update **list.txt** (via Pull Request)
 - [vibora](https://github.com/vibora-io/vibora): Fast, asynchronous and elegant Python web framework. 
 
   [![GitHub stars](https://img.shields.io/github/stars/vibora-io/vibora.svg?style=social)](https://github.com/vibora-io/vibora) [![GitHub issues](https://img.shields.io/github/issues/vibora-io/vibora.svg)](https://github.com/vibora-io/vibora/issues) [![Downloads](https://img.shields.io/pypi/dw/vibora)](https://pypi.org/project/vibora/) [![GitHub last commit](https://img.shields.io/github/last-commit/vibora-io/vibora)](https://github.com/vibora-io/vibora/commits) 
+- [flask-api](https://github.com/flask-api/flask-api): Browsable web APIs for Flask. 
 
-*Last Automatic Update: 2022-10-24T00:42:27*
+  [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
+
+*Last Automatic Update: 2022-10-24T00:51:09*
