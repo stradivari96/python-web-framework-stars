@@ -13,7 +13,7 @@ tail = '\n*Last Automatic Update: {}*'
 warning = "\n⚠️ No longer maintained ⚠️\n\n"
 
 deprecated_repos = [
-    https://github.com/flask-api/flask-api,
+    "https://github.com/flask-api/flask-api",
 ]
 repos = list()
 
