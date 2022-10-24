@@ -56,6 +56,9 @@ Please update **list.txt** (via Pull Request)
 - [django-ninja](https://github.com/vitalik/django-ninja): 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs 
 
   [![GitHub stars](https://img.shields.io/github/stars/vitalik/django-ninja.svg?style=social)](https://github.com/vitalik/django-ninja) [![GitHub issues](https://img.shields.io/github/issues/vitalik/django-ninja.svg)](https://github.com/vitalik/django-ninja/issues) [![Downloads](https://img.shields.io/pypi/dw/django-ninja)](https://pypi.org/project/django-ninja/) [![GitHub last commit](https://img.shields.io/github/last-commit/vitalik/django-ninja)](https://github.com/vitalik/django-ninja/commits) 
+- [Zappa](https://github.com/zappa/Zappa): Serverless Python  
+
+  [![GitHub stars](https://img.shields.io/github/stars/zappa/Zappa.svg?style=social)](https://github.com/zappa/Zappa) [![GitHub issues](https://img.shields.io/github/issues/zappa/Zappa.svg)](https://github.com/zappa/Zappa/issues) [![Downloads](https://img.shields.io/pypi/dw/zappa)](https://pypi.org/project/zappa/) [![GitHub last commit](https://img.shields.io/github/last-commit/zappa/Zappa)](https://github.com/zappa/Zappa/commits) 
 - [web2py](https://github.com/web2py/web2py): Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python. 
 
   [![GitHub stars](https://img.shields.io/github/stars/web2py/web2py.svg?style=social)](https://github.com/web2py/web2py) [![GitHub issues](https://img.shields.io/github/issues/web2py/web2py.svg)](https://github.com/web2py/web2py/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/web2py/web2py)](https://github.com/web2py/web2py/commits) 
@@ -90,4 +93,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/vibora-io/vibora.svg?style=social)](https://github.com/vibora-io/vibora) [![GitHub issues](https://img.shields.io/github/issues/vibora-io/vibora.svg)](https://github.com/vibora-io/vibora/issues) [![Downloads](https://img.shields.io/pypi/dw/vibora)](https://pypi.org/project/vibora/) [![GitHub last commit](https://img.shields.io/github/last-commit/vibora-io/vibora)](https://github.com/vibora-io/vibora/commits) 
 
-*Last Automatic Update: 2022-10-24T00:28:20*
+*Last Automatic Update: 2022-10-24T00:30:50*
