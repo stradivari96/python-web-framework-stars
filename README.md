@@ -50,6 +50,9 @@ Please update **list.txt** (via Pull Request)
 - [eve](https://github.com/pyeve/eve): REST API framework designed for human beings 
 
   [![GitHub stars](https://img.shields.io/github/stars/pyeve/eve.svg?style=social)](https://github.com/pyeve/eve) [![GitHub issues](https://img.shields.io/github/issues/pyeve/eve.svg)](https://github.com/pyeve/eve/issues) [![Downloads](https://img.shields.io/pypi/dw/Eve)](https://pypi.org/project/Eve/) [![GitHub last commit](https://img.shields.io/github/last-commit/pyeve/eve)](https://github.com/pyeve/eve/commits) 
+- [twisted](https://github.com/twisted/twisted): Event-driven networking engine written in Python. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/twisted/twisted.svg?style=social)](https://github.com/twisted/twisted) [![GitHub issues](https://img.shields.io/github/issues/twisted/twisted.svg)](https://github.com/twisted/twisted/issues) [![Downloads](https://img.shields.io/pypi/dw/twisted)](https://pypi.org/project/twisted/) [![GitHub last commit](https://img.shields.io/github/last-commit/twisted/twisted)](https://github.com/twisted/twisted/commits) 
 - [django-tastypie](https://github.com/django-tastypie/django-tastypie): Creating delicious APIs for Django apps since 2010. 
 
   [![GitHub stars](https://img.shields.io/github/stars/django-tastypie/django-tastypie.svg?style=social)](https://github.com/django-tastypie/django-tastypie) [![GitHub issues](https://img.shields.io/github/issues/django-tastypie/django-tastypie.svg)](https://github.com/django-tastypie/django-tastypie/issues) [![Downloads](https://img.shields.io/pypi/dw/django-tastypie)](https://pypi.org/project/django-tastypie/) [![GitHub last commit](https://img.shields.io/github/last-commit/django-tastypie/django-tastypie)](https://github.com/django-tastypie/django-tastypie/commits) 
@@ -96,4 +99,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2022-10-25T08:09:40*
+*Last Automatic Update: 2022-10-25T09:35:11*
