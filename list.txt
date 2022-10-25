@@ -24,6 +24,7 @@ https://github.com/streamlit/streamlit streamlit
 https://github.com/tiangolo/fastapi fastapi
 https://github.com/timothycrosley/hug hug
 https://github.com/tornadoweb/tornado tornado
+https://github.com/twisted/twisted twisted
 https://github.com/vibora-io/vibora vibora
 https://github.com/vitalik/django-ninja django-ninja
 https://github.com/web2py/web2py -
