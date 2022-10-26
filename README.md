@@ -95,8 +95,11 @@ Please update **list.txt** (via Pull Request)
 - [vibora](https://github.com/vibora-io/vibora): Fast, asynchronous and elegant Python web framework. 
 
   [![GitHub stars](https://img.shields.io/github/stars/vibora-io/vibora.svg?style=social)](https://github.com/vibora-io/vibora) [![GitHub issues](https://img.shields.io/github/issues/vibora-io/vibora.svg)](https://github.com/vibora-io/vibora/issues) [![Downloads](https://img.shields.io/pypi/dw/vibora)](https://pypi.org/project/vibora/) [![GitHub last commit](https://img.shields.io/github/last-commit/vibora-io/vibora)](https://github.com/vibora-io/vibora/commits) 
+- [apistar](https://github.com/encode/apistar): The Web API toolkit. 🛠 
+
+  [![GitHub stars](https://img.shields.io/github/stars/encode/apistar.svg?style=social)](https://github.com/encode/apistar) [![GitHub issues](https://img.shields.io/github/issues/encode/apistar.svg)](https://github.com/encode/apistar/issues) [![Downloads](https://img.shields.io/pypi/dw/apistar)](https://pypi.org/project/apistar/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/apistar)](https://github.com/encode/apistar/commits) 
 - [flask-api](https://github.com/flask-api/flask-api): Browsable web APIs for Flask. 
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2022-10-26T08:05:51*
+*Last Automatic Update: 2022-10-26T09:38:15*
