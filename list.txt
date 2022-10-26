@@ -8,6 +8,7 @@ https://github.com/channelcat/sanic sanic
 https://github.com/cherrypy/cherrypy CherryPy
 https://github.com/django/django Django
 https://github.com/django-tastypie/django-tastypie django-tastypie
+https://github.com/encode/apistar apistar
 https://github.com/encode/django-rest-framework djangorestframework
 https://github.com/encode/httpx httpx
 https://github.com/encode/starlette starlette
