@@ -14,6 +14,7 @@ https://github.com/encode/httpx httpx
 https://github.com/encode/starlette starlette
 https://github.com/falconry/falcon falcon
 https://github.com/flask-api/flask-api Flask-API
+https://github.com/flet-dev/flet flet
 https://github.com/pallets/flask Flask
 https://github.com/pallets/quart quart
 https://github.com/plotly/dash dash
