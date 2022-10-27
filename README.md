@@ -32,6 +32,9 @@ Please update **list.txt** (via Pull Request)
 - [aiohttp](https://github.com/aio-libs/aiohttp): Asynchronous HTTP client/server framework for asyncio and Python 
 
   [![GitHub stars](https://img.shields.io/github/stars/aio-libs/aiohttp.svg?style=social)](https://github.com/aio-libs/aiohttp) [![GitHub issues](https://img.shields.io/github/issues/aio-libs/aiohttp.svg)](https://github.com/aio-libs/aiohttp/issues) [![Downloads](https://img.shields.io/pypi/dw/aiohttp)](https://pypi.org/project/aiohttp/) [![GitHub last commit](https://img.shields.io/github/last-commit/aio-libs/aiohttp)](https://github.com/aio-libs/aiohttp/commits) 
+- [gradio](https://github.com/gradio-app/gradio): Create UIs for your machine learning model in Python in 3 minutes 
+
+  [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio.svg?style=social)](https://github.com/gradio-app/gradio) [![GitHub issues](https://img.shields.io/github/issues/gradio-app/gradio.svg)](https://github.com/gradio-app/gradio/issues) [![Downloads](https://img.shields.io/pypi/dw/gradio)](https://pypi.org/project/gradio/) [![GitHub last commit](https://img.shields.io/github/last-commit/gradio-app/gradio)](https://github.com/gradio-app/gradio/commits) 
 - [httpx](https://github.com/encode/httpx): A next generation HTTP client for Python. 🦋 
 
   [![GitHub stars](https://img.shields.io/github/stars/encode/httpx.svg?style=social)](https://github.com/encode/httpx) [![GitHub issues](https://img.shields.io/github/issues/encode/httpx.svg)](https://github.com/encode/httpx/issues) [![Downloads](https://img.shields.io/pypi/dw/httpx)](https://pypi.org/project/httpx/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/httpx)](https://github.com/encode/httpx/commits) 
@@ -62,6 +65,9 @@ Please update **list.txt** (via Pull Request)
 - [django-ninja](https://github.com/vitalik/django-ninja): 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs 
 
   [![GitHub stars](https://img.shields.io/github/stars/vitalik/django-ninja.svg?style=social)](https://github.com/vitalik/django-ninja) [![GitHub issues](https://img.shields.io/github/issues/vitalik/django-ninja.svg)](https://github.com/vitalik/django-ninja/issues) [![Downloads](https://img.shields.io/pypi/dw/django-ninja)](https://pypi.org/project/django-ninja/) [![GitHub last commit](https://img.shields.io/github/last-commit/vitalik/django-ninja)](https://github.com/vitalik/django-ninja/commits) 
+- [flet](https://github.com/flet-dev/flet): Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/flet-dev/flet.svg?style=social)](https://github.com/flet-dev/flet) [![GitHub issues](https://img.shields.io/github/issues/flet-dev/flet.svg)](https://github.com/flet-dev/flet/issues) [![Downloads](https://img.shields.io/pypi/dw/flet)](https://pypi.org/project/flet/) [![GitHub last commit](https://img.shields.io/github/last-commit/flet-dev/flet)](https://github.com/flet-dev/flet/commits) 
 - [Zappa](https://github.com/zappa/Zappa): Serverless Python  
 
   [![GitHub stars](https://img.shields.io/github/stars/zappa/Zappa.svg?style=social)](https://github.com/zappa/Zappa) [![GitHub issues](https://img.shields.io/github/issues/zappa/Zappa.svg)](https://github.com/zappa/Zappa/issues) [![Downloads](https://img.shields.io/pypi/dw/zappa)](https://pypi.org/project/zappa/) [![GitHub last commit](https://img.shields.io/github/last-commit/zappa/Zappa)](https://github.com/zappa/Zappa/commits) 
@@ -102,4 +108,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2022-10-26T09:38:15*
+*Last Automatic Update: 2022-10-27T08:05:40*
