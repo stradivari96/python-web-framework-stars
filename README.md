@@ -35,9 +35,6 @@ Please update **list.txt** (via Pull Request)
 - [gradio](https://github.com/gradio-app/gradio): Create UIs for your machine learning model in Python in 3 minutes 
 
   [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio.svg?style=social)](https://github.com/gradio-app/gradio) [![GitHub issues](https://img.shields.io/github/issues/gradio-app/gradio.svg)](https://github.com/gradio-app/gradio/issues) [![Downloads](https://img.shields.io/pypi/dw/gradio)](https://pypi.org/project/gradio/) [![GitHub last commit](https://img.shields.io/github/last-commit/gradio-app/gradio)](https://github.com/gradio-app/gradio/commits) 
-- [httpx](https://github.com/encode/httpx): A next generation HTTP client for Python. 🦋 
-
-  [![GitHub stars](https://img.shields.io/github/stars/encode/httpx.svg?style=social)](https://github.com/encode/httpx) [![GitHub issues](https://img.shields.io/github/issues/encode/httpx.svg)](https://github.com/encode/httpx/issues) [![Downloads](https://img.shields.io/pypi/dw/httpx)](https://pypi.org/project/httpx/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/httpx)](https://github.com/encode/httpx/commits) 
 - [chalice](https://github.com/aws/chalice): Python Serverless Microframework for AWS 
 
   [![GitHub stars](https://img.shields.io/github/stars/aws/chalice.svg?style=social)](https://github.com/aws/chalice) [![GitHub issues](https://img.shields.io/github/issues/aws/chalice.svg)](https://github.com/aws/chalice/issues) [![Downloads](https://img.shields.io/pypi/dw/chalice)](https://pypi.org/project/chalice/) [![GitHub last commit](https://img.shields.io/github/last-commit/aws/chalice)](https://github.com/aws/chalice/commits) 
@@ -108,4 +105,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2022-11-06T08:05:38*
+*Last Automatic Update: 2022-11-07T08:05:38*
