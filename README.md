@@ -53,12 +53,12 @@ Please update **list.txt** (via Pull Request)
 - [twisted](https://github.com/twisted/twisted): Event-driven networking engine written in Python. 
 
   [![GitHub stars](https://img.shields.io/github/stars/twisted/twisted.svg?style=social)](https://github.com/twisted/twisted) [![GitHub issues](https://img.shields.io/github/issues/twisted/twisted.svg)](https://github.com/twisted/twisted/issues) [![Downloads](https://img.shields.io/pypi/dw/twisted)](https://pypi.org/project/twisted/) [![GitHub last commit](https://img.shields.io/github/last-commit/twisted/twisted)](https://github.com/twisted/twisted/commits) 
-- [django-tastypie](https://github.com/django-tastypie/django-tastypie): Creating delicious APIs for Django apps since 2010. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/django-tastypie/django-tastypie.svg?style=social)](https://github.com/django-tastypie/django-tastypie) [![GitHub issues](https://img.shields.io/github/issues/django-tastypie/django-tastypie.svg)](https://github.com/django-tastypie/django-tastypie/issues) [![Downloads](https://img.shields.io/pypi/dw/django-tastypie)](https://pypi.org/project/django-tastypie/) [![GitHub last commit](https://img.shields.io/github/last-commit/django-tastypie/django-tastypie)](https://github.com/django-tastypie/django-tastypie/commits) 
 - [django-ninja](https://github.com/vitalik/django-ninja): 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs 
 
   [![GitHub stars](https://img.shields.io/github/stars/vitalik/django-ninja.svg?style=social)](https://github.com/vitalik/django-ninja) [![GitHub issues](https://img.shields.io/github/issues/vitalik/django-ninja.svg)](https://github.com/vitalik/django-ninja/issues) [![Downloads](https://img.shields.io/pypi/dw/django-ninja)](https://pypi.org/project/django-ninja/) [![GitHub last commit](https://img.shields.io/github/last-commit/vitalik/django-ninja)](https://github.com/vitalik/django-ninja/commits) 
+- [django-tastypie](https://github.com/django-tastypie/django-tastypie): Creating delicious APIs for Django apps since 2010. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/django-tastypie/django-tastypie.svg?style=social)](https://github.com/django-tastypie/django-tastypie) [![GitHub issues](https://img.shields.io/github/issues/django-tastypie/django-tastypie.svg)](https://github.com/django-tastypie/django-tastypie/issues) [![Downloads](https://img.shields.io/pypi/dw/django-tastypie)](https://pypi.org/project/django-tastypie/) [![GitHub last commit](https://img.shields.io/github/last-commit/django-tastypie/django-tastypie)](https://github.com/django-tastypie/django-tastypie/commits) 
 - [pyramid](https://github.com/Pylons/pyramid): Pyramid - A Python web framework 
 
   [![GitHub stars](https://img.shields.io/github/stars/Pylons/pyramid.svg?style=social)](https://github.com/Pylons/pyramid) [![GitHub issues](https://img.shields.io/github/issues/Pylons/pyramid.svg)](https://github.com/Pylons/pyramid/issues) [![Downloads](https://img.shields.io/pypi/dw/pyramid)](https://pypi.org/project/pyramid/) [![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/pyramid)](https://github.com/Pylons/pyramid/commits) 
@@ -105,4 +105,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-01-01T08:06:48*
+*Last Automatic Update: 2023-01-08T08:05:39*
