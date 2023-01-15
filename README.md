@@ -59,12 +59,12 @@ Please update **list.txt** (via Pull Request)
 - [django-tastypie](https://github.com/django-tastypie/django-tastypie): Creating delicious APIs for Django apps since 2010. 
 
   [![GitHub stars](https://img.shields.io/github/stars/django-tastypie/django-tastypie.svg?style=social)](https://github.com/django-tastypie/django-tastypie) [![GitHub issues](https://img.shields.io/github/issues/django-tastypie/django-tastypie.svg)](https://github.com/django-tastypie/django-tastypie/issues) [![Downloads](https://img.shields.io/pypi/dw/django-tastypie)](https://pypi.org/project/django-tastypie/) [![GitHub last commit](https://img.shields.io/github/last-commit/django-tastypie/django-tastypie)](https://github.com/django-tastypie/django-tastypie/commits) 
-- [pyramid](https://github.com/Pylons/pyramid): Pyramid - A Python web framework 
-
-  [![GitHub stars](https://img.shields.io/github/stars/Pylons/pyramid.svg?style=social)](https://github.com/Pylons/pyramid) [![GitHub issues](https://img.shields.io/github/issues/Pylons/pyramid.svg)](https://github.com/Pylons/pyramid/issues) [![Downloads](https://img.shields.io/pypi/dw/pyramid)](https://pypi.org/project/pyramid/) [![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/pyramid)](https://github.com/Pylons/pyramid/commits) 
 - [flet](https://github.com/flet-dev/flet): Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required. 
 
   [![GitHub stars](https://img.shields.io/github/stars/flet-dev/flet.svg?style=social)](https://github.com/flet-dev/flet) [![GitHub issues](https://img.shields.io/github/issues/flet-dev/flet.svg)](https://github.com/flet-dev/flet/issues) [![Downloads](https://img.shields.io/pypi/dw/flet)](https://pypi.org/project/flet/) [![GitHub last commit](https://img.shields.io/github/last-commit/flet-dev/flet)](https://github.com/flet-dev/flet/commits) 
+- [pyramid](https://github.com/Pylons/pyramid): Pyramid - A Python web framework 
+
+  [![GitHub stars](https://img.shields.io/github/stars/Pylons/pyramid.svg?style=social)](https://github.com/Pylons/pyramid) [![GitHub issues](https://img.shields.io/github/issues/Pylons/pyramid.svg)](https://github.com/Pylons/pyramid/issues) [![Downloads](https://img.shields.io/pypi/dw/pyramid)](https://pypi.org/project/pyramid/) [![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/pyramid)](https://github.com/Pylons/pyramid/commits) 
 - [Zappa](https://github.com/zappa/Zappa): Serverless Python  
 
   [![GitHub stars](https://img.shields.io/github/stars/zappa/Zappa.svg?style=social)](https://github.com/zappa/Zappa) [![GitHub issues](https://img.shields.io/github/issues/zappa/Zappa.svg)](https://github.com/zappa/Zappa/issues) [![Downloads](https://img.shields.io/pypi/dw/zappa)](https://pypi.org/project/zappa/) [![GitHub last commit](https://img.shields.io/github/last-commit/zappa/Zappa)](https://github.com/zappa/Zappa/commits) 
@@ -105,4 +105,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-01-08T08:05:39*
+*Last Automatic Update: 2023-01-15T08:05:47*
