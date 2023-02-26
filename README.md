@@ -26,7 +26,7 @@ Please update **list.txt** (via Pull Request)
 - [dash](https://github.com/plotly/dash): Data Apps & Dashboards for Python. No JavaScript Required. 
 
   [![GitHub stars](https://img.shields.io/github/stars/plotly/dash.svg?style=social)](https://github.com/plotly/dash) [![GitHub issues](https://img.shields.io/github/issues/plotly/dash.svg)](https://github.com/plotly/dash/issues) [![Downloads](https://img.shields.io/pypi/dw/dash)](https://pypi.org/project/dash/) [![GitHub last commit](https://img.shields.io/github/last-commit/plotly/dash)](https://github.com/plotly/dash/commits) 
-- [sanic](https://github.com/sanic-org/sanic): Next generation Python web server/framework | Build fast. Run fast. 
+- [sanic](https://github.com/sanic-org/sanic):  Accelerate your web app development  | Build fast. Run fast. 
 
   [![GitHub stars](https://img.shields.io/github/stars/sanic-org/sanic.svg?style=social)](https://github.com/sanic-org/sanic) [![GitHub issues](https://img.shields.io/github/issues/sanic-org/sanic.svg)](https://github.com/sanic-org/sanic/issues) [![Downloads](https://img.shields.io/pypi/dw/sanic)](https://pypi.org/project/sanic/) [![GitHub last commit](https://img.shields.io/github/last-commit/sanic-org/sanic)](https://github.com/sanic-org/sanic/commits) 
 - [aiohttp](https://github.com/aio-libs/aiohttp): Asynchronous HTTP client/server framework for asyncio and Python 
@@ -41,12 +41,12 @@ Please update **list.txt** (via Pull Request)
 - [falcon](https://github.com/falconry/falcon): The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. 
 
   [![GitHub stars](https://img.shields.io/github/stars/falconry/falcon.svg?style=social)](https://github.com/falconry/falcon) [![GitHub issues](https://img.shields.io/github/issues/falconry/falcon.svg)](https://github.com/falconry/falcon/issues) [![Downloads](https://img.shields.io/pypi/dw/falcon)](https://pypi.org/project/falcon/) [![GitHub last commit](https://img.shields.io/github/last-commit/falconry/falcon)](https://github.com/falconry/falcon/commits) 
-- [bottle](https://github.com/bottlepy/bottle): bottle.py is a fast and simple micro-framework for python web-applications. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/bottlepy/bottle.svg?style=social)](https://github.com/bottlepy/bottle) [![GitHub issues](https://img.shields.io/github/issues/bottlepy/bottle.svg)](https://github.com/bottlepy/bottle/issues) [![Downloads](https://img.shields.io/pypi/dw/bottle)](https://pypi.org/project/bottle/) [![GitHub last commit](https://img.shields.io/github/last-commit/bottlepy/bottle)](https://github.com/bottlepy/bottle/commits) 
 - [starlette](https://github.com/encode/starlette): The little ASGI framework that shines. 🌟 
 
   [![GitHub stars](https://img.shields.io/github/stars/encode/starlette.svg?style=social)](https://github.com/encode/starlette) [![GitHub issues](https://img.shields.io/github/issues/encode/starlette.svg)](https://github.com/encode/starlette/issues) [![Downloads](https://img.shields.io/pypi/dw/starlette)](https://pypi.org/project/starlette/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/starlette)](https://github.com/encode/starlette/commits) 
+- [bottle](https://github.com/bottlepy/bottle): bottle.py is a fast and simple micro-framework for python web-applications. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/bottlepy/bottle.svg?style=social)](https://github.com/bottlepy/bottle) [![GitHub issues](https://img.shields.io/github/issues/bottlepy/bottle.svg)](https://github.com/bottlepy/bottle/issues) [![Downloads](https://img.shields.io/pypi/dw/bottle)](https://pypi.org/project/bottle/) [![GitHub last commit](https://img.shields.io/github/last-commit/bottlepy/bottle)](https://github.com/bottlepy/bottle/commits) 
 - [eve](https://github.com/pyeve/eve): REST API framework designed for human beings 
 
   [![GitHub stars](https://img.shields.io/github/stars/pyeve/eve.svg?style=social)](https://github.com/pyeve/eve) [![GitHub issues](https://img.shields.io/github/issues/pyeve/eve.svg)](https://github.com/pyeve/eve/issues) [![Downloads](https://img.shields.io/pypi/dw/Eve)](https://pypi.org/project/Eve/) [![GitHub last commit](https://img.shields.io/github/last-commit/pyeve/eve)](https://github.com/pyeve/eve/commits) 
@@ -105,4 +105,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-02-19T08:05:43*
+*Last Automatic Update: 2023-02-26T08:05:53*
