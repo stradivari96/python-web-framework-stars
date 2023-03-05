@@ -29,12 +29,12 @@ Please update **list.txt** (via Pull Request)
 - [sanic](https://github.com/sanic-org/sanic):  Accelerate your web app development  | Build fast. Run fast. 
 
   [![GitHub stars](https://img.shields.io/github/stars/sanic-org/sanic.svg?style=social)](https://github.com/sanic-org/sanic) [![GitHub issues](https://img.shields.io/github/issues/sanic-org/sanic.svg)](https://github.com/sanic-org/sanic/issues) [![Downloads](https://img.shields.io/pypi/dw/sanic)](https://pypi.org/project/sanic/) [![GitHub last commit](https://img.shields.io/github/last-commit/sanic-org/sanic)](https://github.com/sanic-org/sanic/commits) 
-- [aiohttp](https://github.com/aio-libs/aiohttp): Asynchronous HTTP client/server framework for asyncio and Python 
-
-  [![GitHub stars](https://img.shields.io/github/stars/aio-libs/aiohttp.svg?style=social)](https://github.com/aio-libs/aiohttp) [![GitHub issues](https://img.shields.io/github/issues/aio-libs/aiohttp.svg)](https://github.com/aio-libs/aiohttp/issues) [![Downloads](https://img.shields.io/pypi/dw/aiohttp)](https://pypi.org/project/aiohttp/) [![GitHub last commit](https://img.shields.io/github/last-commit/aio-libs/aiohttp)](https://github.com/aio-libs/aiohttp/commits) 
 - [gradio](https://github.com/gradio-app/gradio): Create UIs for your machine learning model in Python in 3 minutes 
 
   [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio.svg?style=social)](https://github.com/gradio-app/gradio) [![GitHub issues](https://img.shields.io/github/issues/gradio-app/gradio.svg)](https://github.com/gradio-app/gradio/issues) [![Downloads](https://img.shields.io/pypi/dw/gradio)](https://pypi.org/project/gradio/) [![GitHub last commit](https://img.shields.io/github/last-commit/gradio-app/gradio)](https://github.com/gradio-app/gradio/commits) 
+- [aiohttp](https://github.com/aio-libs/aiohttp): Asynchronous HTTP client/server framework for asyncio and Python 
+
+  [![GitHub stars](https://img.shields.io/github/stars/aio-libs/aiohttp.svg?style=social)](https://github.com/aio-libs/aiohttp) [![GitHub issues](https://img.shields.io/github/issues/aio-libs/aiohttp.svg)](https://github.com/aio-libs/aiohttp/issues) [![Downloads](https://img.shields.io/pypi/dw/aiohttp)](https://pypi.org/project/aiohttp/) [![GitHub last commit](https://img.shields.io/github/last-commit/aio-libs/aiohttp)](https://github.com/aio-libs/aiohttp/commits) 
 - [chalice](https://github.com/aws/chalice): Python Serverless Microframework for AWS 
 
   [![GitHub stars](https://img.shields.io/github/stars/aws/chalice.svg?style=social)](https://github.com/aws/chalice) [![GitHub issues](https://img.shields.io/github/issues/aws/chalice.svg)](https://github.com/aws/chalice/issues) [![Downloads](https://img.shields.io/pypi/dw/chalice)](https://pypi.org/project/chalice/) [![GitHub last commit](https://img.shields.io/github/last-commit/aws/chalice)](https://github.com/aws/chalice/commits) 
@@ -74,12 +74,12 @@ Please update **list.txt** (via Pull Request)
 - [masonite](https://github.com/MasoniteFramework/masonite): The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ 
 
   [![GitHub stars](https://img.shields.io/github/stars/MasoniteFramework/masonite.svg?style=social)](https://github.com/MasoniteFramework/masonite) [![GitHub issues](https://img.shields.io/github/issues/MasoniteFramework/masonite.svg)](https://github.com/MasoniteFramework/masonite/issues) [![Downloads](https://img.shields.io/pypi/dw/masonite)](https://pypi.org/project/masonite/) [![GitHub last commit](https://img.shields.io/github/last-commit/MasoniteFramework/masonite)](https://github.com/MasoniteFramework/masonite/commits) 
-- [flask-restx](https://github.com/python-restx/flask-restx): Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask 
-
-  [![GitHub stars](https://img.shields.io/github/stars/python-restx/flask-restx.svg?style=social)](https://github.com/python-restx/flask-restx) [![GitHub issues](https://img.shields.io/github/issues/python-restx/flask-restx.svg)](https://github.com/python-restx/flask-restx/issues) [![Downloads](https://img.shields.io/pypi/dw/flask-restx)](https://pypi.org/project/flask-restx/) [![GitHub last commit](https://img.shields.io/github/last-commit/python-restx/flask-restx)](https://github.com/python-restx/flask-restx/commits) 
 - [starlite](https://github.com/starlite-api/starlite): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs 
 
   [![GitHub stars](https://img.shields.io/github/stars/starlite-api/starlite.svg?style=social)](https://github.com/starlite-api/starlite) [![GitHub issues](https://img.shields.io/github/issues/starlite-api/starlite.svg)](https://github.com/starlite-api/starlite/issues) [![Downloads](https://img.shields.io/pypi/dw/starlite)](https://pypi.org/project/starlite/) [![GitHub last commit](https://img.shields.io/github/last-commit/starlite-api/starlite)](https://github.com/starlite-api/starlite/commits) 
+- [flask-restx](https://github.com/python-restx/flask-restx): Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask 
+
+  [![GitHub stars](https://img.shields.io/github/stars/python-restx/flask-restx.svg?style=social)](https://github.com/python-restx/flask-restx) [![GitHub issues](https://img.shields.io/github/issues/python-restx/flask-restx.svg)](https://github.com/python-restx/flask-restx/issues) [![Downloads](https://img.shields.io/pypi/dw/flask-restx)](https://pypi.org/project/flask-restx/) [![GitHub last commit](https://img.shields.io/github/last-commit/python-restx/flask-restx)](https://github.com/python-restx/flask-restx/commits) 
 - [cherrypy](https://github.com/cherrypy/cherrypy): CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev 
 
   [![GitHub stars](https://img.shields.io/github/stars/cherrypy/cherrypy.svg?style=social)](https://github.com/cherrypy/cherrypy) [![GitHub issues](https://img.shields.io/github/issues/cherrypy/cherrypy.svg)](https://github.com/cherrypy/cherrypy/issues) [![Downloads](https://img.shields.io/pypi/dw/CherryPy)](https://pypi.org/project/CherryPy/) [![GitHub last commit](https://img.shields.io/github/last-commit/cherrypy/cherrypy)](https://github.com/cherrypy/cherrypy/commits) 
@@ -105,4 +105,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-02-26T08:05:53*
+*Last Automatic Update: 2023-03-05T08:05:44*
