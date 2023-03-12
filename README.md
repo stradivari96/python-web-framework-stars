@@ -80,12 +80,12 @@ Please update **list.txt** (via Pull Request)
 - [flask-restx](https://github.com/python-restx/flask-restx): Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask 
 
   [![GitHub stars](https://img.shields.io/github/stars/python-restx/flask-restx.svg?style=social)](https://github.com/python-restx/flask-restx) [![GitHub issues](https://img.shields.io/github/issues/python-restx/flask-restx.svg)](https://github.com/python-restx/flask-restx/issues) [![Downloads](https://img.shields.io/pypi/dw/flask-restx)](https://pypi.org/project/flask-restx/) [![GitHub last commit](https://img.shields.io/github/last-commit/python-restx/flask-restx)](https://github.com/python-restx/flask-restx/commits) 
-- [cherrypy](https://github.com/cherrypy/cherrypy): CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev 
-
-  [![GitHub stars](https://img.shields.io/github/stars/cherrypy/cherrypy.svg?style=social)](https://github.com/cherrypy/cherrypy) [![GitHub issues](https://img.shields.io/github/issues/cherrypy/cherrypy.svg)](https://github.com/cherrypy/cherrypy/issues) [![Downloads](https://img.shields.io/pypi/dw/CherryPy)](https://pypi.org/project/CherryPy/) [![GitHub last commit](https://img.shields.io/github/last-commit/cherrypy/cherrypy)](https://github.com/cherrypy/cherrypy/commits) 
 - [quart](https://github.com/pallets/quart): An async Python micro framework for building web applications.  
 
   [![GitHub stars](https://img.shields.io/github/stars/pallets/quart.svg?style=social)](https://github.com/pallets/quart) [![GitHub issues](https://img.shields.io/github/issues/pallets/quart.svg)](https://github.com/pallets/quart/issues) [![Downloads](https://img.shields.io/pypi/dw/quart)](https://pypi.org/project/quart/) [![GitHub last commit](https://img.shields.io/github/last-commit/pallets/quart)](https://github.com/pallets/quart/commits) 
+- [cherrypy](https://github.com/cherrypy/cherrypy): CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev 
+
+  [![GitHub stars](https://img.shields.io/github/stars/cherrypy/cherrypy.svg?style=social)](https://github.com/cherrypy/cherrypy) [![GitHub issues](https://img.shields.io/github/issues/cherrypy/cherrypy.svg)](https://github.com/cherrypy/cherrypy/issues) [![Downloads](https://img.shields.io/pypi/dw/CherryPy)](https://pypi.org/project/CherryPy/) [![GitHub last commit](https://img.shields.io/github/last-commit/cherrypy/cherrypy)](https://github.com/cherrypy/cherrypy/commits) 
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web framework for Python 
 
   [![GitHub stars](https://img.shields.io/github/stars/Neoteroi/BlackSheep.svg?style=social)](https://github.com/Neoteroi/BlackSheep) [![GitHub issues](https://img.shields.io/github/issues/Neoteroi/BlackSheep.svg)](https://github.com/Neoteroi/BlackSheep/issues) [![Downloads](https://img.shields.io/pypi/dw/blacksheep)](https://pypi.org/project/blacksheep/) [![GitHub last commit](https://img.shields.io/github/last-commit/Neoteroi/BlackSheep)](https://github.com/Neoteroi/BlackSheep/commits) 
@@ -105,4 +105,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-03-05T08:05:44*
+*Last Automatic Update: 2023-03-12T08:05:41*
