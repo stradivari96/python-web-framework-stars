@@ -71,12 +71,12 @@ Please update **list.txt** (via Pull Request)
 - [web2py](https://github.com/web2py/web2py): Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python. 
 
   [![GitHub stars](https://img.shields.io/github/stars/web2py/web2py.svg?style=social)](https://github.com/web2py/web2py) [![GitHub issues](https://img.shields.io/github/issues/web2py/web2py.svg)](https://github.com/web2py/web2py/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/web2py/web2py)](https://github.com/web2py/web2py/commits) 
+- [litestar](https://github.com/litestar-org/litestar): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs 
+
+  [![GitHub stars](https://img.shields.io/github/stars/litestar-org/litestar.svg?style=social)](https://github.com/litestar-org/litestar) [![GitHub issues](https://img.shields.io/github/issues/litestar-org/litestar.svg)](https://github.com/litestar-org/litestar/issues) [![Downloads](https://img.shields.io/pypi/dw/starlite)](https://pypi.org/project/starlite/) [![GitHub last commit](https://img.shields.io/github/last-commit/litestar-org/litestar)](https://github.com/litestar-org/litestar/commits) 
 - [masonite](https://github.com/MasoniteFramework/masonite): The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ 
 
   [![GitHub stars](https://img.shields.io/github/stars/MasoniteFramework/masonite.svg?style=social)](https://github.com/MasoniteFramework/masonite) [![GitHub issues](https://img.shields.io/github/issues/MasoniteFramework/masonite.svg)](https://github.com/MasoniteFramework/masonite/issues) [![Downloads](https://img.shields.io/pypi/dw/masonite)](https://pypi.org/project/masonite/) [![GitHub last commit](https://img.shields.io/github/last-commit/MasoniteFramework/masonite)](https://github.com/MasoniteFramework/masonite/commits) 
-- [starlite](https://github.com/starlite-api/starlite): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs 
-
-  [![GitHub stars](https://img.shields.io/github/stars/starlite-api/starlite.svg?style=social)](https://github.com/starlite-api/starlite) [![GitHub issues](https://img.shields.io/github/issues/starlite-api/starlite.svg)](https://github.com/starlite-api/starlite/issues) [![Downloads](https://img.shields.io/pypi/dw/starlite)](https://pypi.org/project/starlite/) [![GitHub last commit](https://img.shields.io/github/last-commit/starlite-api/starlite)](https://github.com/starlite-api/starlite/commits) 
 - [flask-restx](https://github.com/python-restx/flask-restx): Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask 
 
   [![GitHub stars](https://img.shields.io/github/stars/python-restx/flask-restx.svg?style=social)](https://github.com/python-restx/flask-restx) [![GitHub issues](https://img.shields.io/github/issues/python-restx/flask-restx.svg)](https://github.com/python-restx/flask-restx/issues) [![Downloads](https://img.shields.io/pypi/dw/flask-restx)](https://pypi.org/project/flask-restx/) [![GitHub last commit](https://img.shields.io/github/last-commit/python-restx/flask-restx)](https://github.com/python-restx/flask-restx/commits) 
@@ -105,4 +105,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-04-02T08:05:46*
+*Last Automatic Update: 2023-04-09T08:05:24*
