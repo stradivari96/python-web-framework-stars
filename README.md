@@ -17,7 +17,7 @@ Please update **list.txt** (via Pull Request)
 - [django-rest-framework](https://github.com/encode/django-rest-framework): Web APIs for Django. 🎸 
 
   [![GitHub stars](https://img.shields.io/github/stars/encode/django-rest-framework.svg?style=social)](https://github.com/encode/django-rest-framework) [![GitHub issues](https://img.shields.io/github/issues/encode/django-rest-framework.svg)](https://github.com/encode/django-rest-framework/issues) [![Downloads](https://img.shields.io/pypi/dw/djangorestframework)](https://pypi.org/project/djangorestframework/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/django-rest-framework)](https://github.com/encode/django-rest-framework/commits) 
-- [streamlit](https://github.com/streamlit/streamlit): Streamlit — The fastest way to build data apps in Python 
+- [streamlit](https://github.com/streamlit/streamlit): Streamlit — A faster way to build and share data apps. 
 
   [![GitHub stars](https://img.shields.io/github/stars/streamlit/streamlit.svg?style=social)](https://github.com/streamlit/streamlit) [![GitHub issues](https://img.shields.io/github/issues/streamlit/streamlit.svg)](https://github.com/streamlit/streamlit/issues) [![Downloads](https://img.shields.io/pypi/dw/streamlit)](https://pypi.org/project/streamlit/) [![GitHub last commit](https://img.shields.io/github/last-commit/streamlit/streamlit)](https://github.com/streamlit/streamlit/commits) 
 - [tornado](https://github.com/tornadoweb/tornado): Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. 
@@ -50,12 +50,12 @@ Please update **list.txt** (via Pull Request)
 - [eve](https://github.com/pyeve/eve): REST API framework designed for human beings 
 
   [![GitHub stars](https://img.shields.io/github/stars/pyeve/eve.svg?style=social)](https://github.com/pyeve/eve) [![GitHub issues](https://img.shields.io/github/issues/pyeve/eve.svg)](https://github.com/pyeve/eve/issues) [![Downloads](https://img.shields.io/pypi/dw/Eve)](https://pypi.org/project/Eve/) [![GitHub last commit](https://img.shields.io/github/last-commit/pyeve/eve)](https://github.com/pyeve/eve/commits) 
-- [twisted](https://github.com/twisted/twisted): Event-driven networking engine written in Python. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/twisted/twisted.svg?style=social)](https://github.com/twisted/twisted) [![GitHub issues](https://img.shields.io/github/issues/twisted/twisted.svg)](https://github.com/twisted/twisted/issues) [![Downloads](https://img.shields.io/pypi/dw/twisted)](https://pypi.org/project/twisted/) [![GitHub last commit](https://img.shields.io/github/last-commit/twisted/twisted)](https://github.com/twisted/twisted/commits) 
 - [flet](https://github.com/flet-dev/flet): Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required. 
 
   [![GitHub stars](https://img.shields.io/github/stars/flet-dev/flet.svg?style=social)](https://github.com/flet-dev/flet) [![GitHub issues](https://img.shields.io/github/issues/flet-dev/flet.svg)](https://github.com/flet-dev/flet/issues) [![Downloads](https://img.shields.io/pypi/dw/flet)](https://pypi.org/project/flet/) [![GitHub last commit](https://img.shields.io/github/last-commit/flet-dev/flet)](https://github.com/flet-dev/flet/commits) 
+- [twisted](https://github.com/twisted/twisted): Event-driven networking engine written in Python. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/twisted/twisted.svg?style=social)](https://github.com/twisted/twisted) [![GitHub issues](https://img.shields.io/github/issues/twisted/twisted.svg)](https://github.com/twisted/twisted/issues) [![Downloads](https://img.shields.io/pypi/dw/twisted)](https://pypi.org/project/twisted/) [![GitHub last commit](https://img.shields.io/github/last-commit/twisted/twisted)](https://github.com/twisted/twisted/commits) 
 - [django-ninja](https://github.com/vitalik/django-ninja): 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs 
 
   [![GitHub stars](https://img.shields.io/github/stars/vitalik/django-ninja.svg?style=social)](https://github.com/vitalik/django-ninja) [![GitHub issues](https://img.shields.io/github/issues/vitalik/django-ninja.svg)](https://github.com/vitalik/django-ninja/issues) [![Downloads](https://img.shields.io/pypi/dw/django-ninja)](https://pypi.org/project/django-ninja/) [![GitHub last commit](https://img.shields.io/github/last-commit/vitalik/django-ninja)](https://github.com/vitalik/django-ninja/commits) 
@@ -105,4 +105,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-04-16T08:05:30*
+*Last Automatic Update: 2023-04-23T08:05:36*
