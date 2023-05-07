@@ -77,12 +77,12 @@ Please update **list.txt** (via Pull Request)
 - [masonite](https://github.com/MasoniteFramework/masonite): The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ 
 
   [![GitHub stars](https://img.shields.io/github/stars/MasoniteFramework/masonite.svg?style=social)](https://github.com/MasoniteFramework/masonite) [![GitHub issues](https://img.shields.io/github/issues/MasoniteFramework/masonite.svg)](https://github.com/MasoniteFramework/masonite/issues) [![Downloads](https://img.shields.io/pypi/dw/masonite)](https://pypi.org/project/masonite/) [![GitHub last commit](https://img.shields.io/github/last-commit/MasoniteFramework/masonite)](https://github.com/MasoniteFramework/masonite/commits) 
-- [flask-restx](https://github.com/python-restx/flask-restx): Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask 
-
-  [![GitHub stars](https://img.shields.io/github/stars/python-restx/flask-restx.svg?style=social)](https://github.com/python-restx/flask-restx) [![GitHub issues](https://img.shields.io/github/issues/python-restx/flask-restx.svg)](https://github.com/python-restx/flask-restx/issues) [![Downloads](https://img.shields.io/pypi/dw/flask-restx)](https://pypi.org/project/flask-restx/) [![GitHub last commit](https://img.shields.io/github/last-commit/python-restx/flask-restx)](https://github.com/python-restx/flask-restx/commits) 
 - [quart](https://github.com/pallets/quart): An async Python micro framework for building web applications.  
 
   [![GitHub stars](https://img.shields.io/github/stars/pallets/quart.svg?style=social)](https://github.com/pallets/quart) [![GitHub issues](https://img.shields.io/github/issues/pallets/quart.svg)](https://github.com/pallets/quart/issues) [![Downloads](https://img.shields.io/pypi/dw/quart)](https://pypi.org/project/quart/) [![GitHub last commit](https://img.shields.io/github/last-commit/pallets/quart)](https://github.com/pallets/quart/commits) 
+- [flask-restx](https://github.com/python-restx/flask-restx): Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask 
+
+  [![GitHub stars](https://img.shields.io/github/stars/python-restx/flask-restx.svg?style=social)](https://github.com/python-restx/flask-restx) [![GitHub issues](https://img.shields.io/github/issues/python-restx/flask-restx.svg)](https://github.com/python-restx/flask-restx/issues) [![Downloads](https://img.shields.io/pypi/dw/flask-restx)](https://pypi.org/project/flask-restx/) [![GitHub last commit](https://img.shields.io/github/last-commit/python-restx/flask-restx)](https://github.com/python-restx/flask-restx/commits) 
 - [cherrypy](https://github.com/cherrypy/cherrypy): CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev 
 
   [![GitHub stars](https://img.shields.io/github/stars/cherrypy/cherrypy.svg?style=social)](https://github.com/cherrypy/cherrypy) [![GitHub issues](https://img.shields.io/github/issues/cherrypy/cherrypy.svg)](https://github.com/cherrypy/cherrypy/issues) [![Downloads](https://img.shields.io/pypi/dw/CherryPy)](https://pypi.org/project/CherryPy/) [![GitHub last commit](https://img.shields.io/github/last-commit/cherrypy/cherrypy)](https://github.com/cherrypy/cherrypy/commits) 
@@ -105,4 +105,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-04-30T08:05:38*
+*Last Automatic Update: 2023-05-07T08:05:24*
