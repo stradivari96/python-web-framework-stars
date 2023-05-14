@@ -26,12 +26,12 @@ Please update **list.txt** (via Pull Request)
 - [dash](https://github.com/plotly/dash): Data Apps & Dashboards for Python. No JavaScript Required. 
 
   [![GitHub stars](https://img.shields.io/github/stars/plotly/dash.svg?style=social)](https://github.com/plotly/dash) [![GitHub issues](https://img.shields.io/github/issues/plotly/dash.svg)](https://github.com/plotly/dash/issues) [![Downloads](https://img.shields.io/pypi/dw/dash)](https://pypi.org/project/dash/) [![GitHub last commit](https://img.shields.io/github/last-commit/plotly/dash)](https://github.com/plotly/dash/commits) 
-- [sanic](https://github.com/sanic-org/sanic):  Accelerate your web app development  | Build fast. Run fast. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/sanic-org/sanic.svg?style=social)](https://github.com/sanic-org/sanic) [![GitHub issues](https://img.shields.io/github/issues/sanic-org/sanic.svg)](https://github.com/sanic-org/sanic/issues) [![Downloads](https://img.shields.io/pypi/dw/sanic)](https://pypi.org/project/sanic/) [![GitHub last commit](https://img.shields.io/github/last-commit/sanic-org/sanic)](https://github.com/sanic-org/sanic/commits) 
 - [gradio](https://github.com/gradio-app/gradio): Create UIs for your machine learning model in Python in 3 minutes 
 
   [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio.svg?style=social)](https://github.com/gradio-app/gradio) [![GitHub issues](https://img.shields.io/github/issues/gradio-app/gradio.svg)](https://github.com/gradio-app/gradio/issues) [![Downloads](https://img.shields.io/pypi/dw/gradio)](https://pypi.org/project/gradio/) [![GitHub last commit](https://img.shields.io/github/last-commit/gradio-app/gradio)](https://github.com/gradio-app/gradio/commits) 
+- [sanic](https://github.com/sanic-org/sanic):  Accelerate your web app development  | Build fast. Run fast. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/sanic-org/sanic.svg?style=social)](https://github.com/sanic-org/sanic) [![GitHub issues](https://img.shields.io/github/issues/sanic-org/sanic.svg)](https://github.com/sanic-org/sanic/issues) [![Downloads](https://img.shields.io/pypi/dw/sanic)](https://pypi.org/project/sanic/) [![GitHub last commit](https://img.shields.io/github/last-commit/sanic-org/sanic)](https://github.com/sanic-org/sanic/commits) 
 - [aiohttp](https://github.com/aio-libs/aiohttp): Asynchronous HTTP client/server framework for asyncio and Python 
 
   [![GitHub stars](https://img.shields.io/github/stars/aio-libs/aiohttp.svg?style=social)](https://github.com/aio-libs/aiohttp) [![GitHub issues](https://img.shields.io/github/issues/aio-libs/aiohttp.svg)](https://github.com/aio-libs/aiohttp/issues) [![Downloads](https://img.shields.io/pypi/dw/aiohttp)](https://pypi.org/project/aiohttp/) [![GitHub last commit](https://img.shields.io/github/last-commit/aio-libs/aiohttp)](https://github.com/aio-libs/aiohttp/commits) 
@@ -105,4 +105,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-05-07T08:05:24*
+*Last Automatic Update: 2023-05-14T08:05:22*
