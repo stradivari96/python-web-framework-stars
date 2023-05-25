@@ -70,7 +70,7 @@ Please update **list.txt** (via Pull Request)
   [![GitHub stars](https://img.shields.io/github/stars/zappa/Zappa.svg?style=social)](https://github.com/zappa/Zappa) [![GitHub issues](https://img.shields.io/github/issues/zappa/Zappa.svg)](https://github.com/zappa/Zappa/issues) [![Downloads](https://img.shields.io/pypi/dw/zappa)](https://pypi.org/project/zappa/) [![GitHub last commit](https://img.shields.io/github/last-commit/zappa/Zappa)](https://github.com/zappa/Zappa/commits) 
 - [litestar](https://github.com/litestar-org/litestar): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs 
 
-  [![GitHub stars](https://img.shields.io/github/stars/litestar-org/litestar.svg?style=social)](https://github.com/litestar-org/litestar) [![GitHub issues](https://img.shields.io/github/issues/litestar-org/litestar.svg)](https://github.com/litestar-org/litestar/issues) [![Downloads](https://img.shields.io/pypi/dw/starlite)](https://pypi.org/project/starlite/) [![GitHub last commit](https://img.shields.io/github/last-commit/litestar-org/litestar)](https://github.com/litestar-org/litestar/commits) 
+  [![GitHub stars](https://img.shields.io/github/stars/litestar-org/litestar.svg?style=social)](https://github.com/litestar-org/litestar) [![GitHub issues](https://img.shields.io/github/issues/litestar-org/litestar.svg)](https://github.com/litestar-org/litestar/issues) [![Downloads](https://img.shields.io/pypi/dw/litestar)](https://pypi.org/project/litestar/) [![GitHub last commit](https://img.shields.io/github/last-commit/litestar-org/litestar)](https://github.com/litestar-org/litestar/commits) 
 - [web2py](https://github.com/web2py/web2py): Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python. 
 
   [![GitHub stars](https://img.shields.io/github/stars/web2py/web2py.svg?style=social)](https://github.com/web2py/web2py) [![GitHub issues](https://img.shields.io/github/issues/web2py/web2py.svg)](https://github.com/web2py/web2py/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/web2py/web2py)](https://github.com/web2py/web2py/commits) 
@@ -108,4 +108,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-05-25T23:29:53*
+*Last Automatic Update: 2023-05-25T23:36:00*
