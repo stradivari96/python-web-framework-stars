@@ -31,3 +31,4 @@ https://github.com/vibora-io/vibora vibora
 https://github.com/vitalik/django-ninja django-ninja
 https://github.com/web2py/web2py -
 https://github.com/zappa/Zappa zappa
+https://github.com/cirospaciari/socketify.py socketify
