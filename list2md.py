@@ -41,7 +41,7 @@ def main():
                 commit = json.loads(r.content)
 
                 repo['last_commit_date'] = datetime.fromisoformat(commit['commit']['committer']['date'][:-1])
-                if repo['stargazers_count'] >= 1_000:
+                if repo['stargazers_count'] >= 900:
                     repos.append(repo)
 
         repos.sort(key=lambda r: r['stargazers_count'], reverse=True)
