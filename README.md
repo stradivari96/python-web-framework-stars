@@ -89,6 +89,9 @@ Please update **list.txt** (via Pull Request)
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web framework for Python 
 
   [![GitHub stars](https://img.shields.io/github/stars/Neoteroi/BlackSheep.svg?style=social)](https://github.com/Neoteroi/BlackSheep) [![GitHub issues](https://img.shields.io/github/issues/Neoteroi/BlackSheep.svg)](https://github.com/Neoteroi/BlackSheep/issues) [![Downloads](https://img.shields.io/pypi/dw/blacksheep)](https://pypi.org/project/blacksheep/) [![GitHub last commit](https://img.shields.io/github/last-commit/Neoteroi/BlackSheep)](https://github.com/Neoteroi/BlackSheep/commits) 
+- [socketify.py](https://github.com/cirospaciari/socketify.py): Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3 
+
+  [![GitHub stars](https://img.shields.io/github/stars/cirospaciari/socketify.py.svg?style=social)](https://github.com/cirospaciari/socketify.py) [![GitHub issues](https://img.shields.io/github/issues/cirospaciari/socketify.py.svg)](https://github.com/cirospaciari/socketify.py/issues) [![Downloads](https://img.shields.io/pypi/dw/socketify)](https://pypi.org/project/socketify/) [![GitHub last commit](https://img.shields.io/github/last-commit/cirospaciari/socketify.py)](https://github.com/cirospaciari/socketify.py/commits) 
 
 ⚠️ No longer maintained ⚠️
 
@@ -105,4 +108,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-05-25T23:27:58*
+*Last Automatic Update: 2023-05-25T23:29:53*
