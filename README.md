@@ -2,6 +2,8 @@
 A list of popular github projects related to Python web framework (ranked by stars automatically)
 Please update **list.txt** (via Pull Request)
 
+https://www.techempower.com/benchmarks/
+
 - [django](https://github.com/django/django): The Web framework for perfectionists with deadlines. 
 
   [![GitHub stars](https://img.shields.io/github/stars/django/django.svg?style=social)](https://github.com/django/django) [![GitHub issues](https://img.shields.io/github/issues/django/django.svg)](https://github.com/django/django/issues) [![Downloads](https://img.shields.io/pypi/dw/Django)](https://pypi.org/project/Django/) [![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django/commits) 
@@ -108,4 +110,4 @@ Please update **list.txt** (via Pull Request)
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-05-25T23:36:00*
+*Last Automatic Update: 2023-05-25T23:43:09*
