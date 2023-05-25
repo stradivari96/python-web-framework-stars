@@ -7,6 +7,8 @@ head = '''# Top Python Web Frameworks
 A list of popular github projects related to Python web framework (ranked by stars automatically)
 Please update **list.txt** (via Pull Request)
 
+https://www.techempower.com/benchmarks/
+
 '''
 tail = '\n*Last Automatic Update: {}*'
 
