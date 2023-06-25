@@ -25,12 +25,12 @@ https://www.techempower.com/benchmarks/
 - [tornado](https://github.com/tornadoweb/tornado): Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. 
 
   [![GitHub stars](https://img.shields.io/github/stars/tornadoweb/tornado.svg?style=social)](https://github.com/tornadoweb/tornado) [![GitHub issues](https://img.shields.io/github/issues/tornadoweb/tornado.svg)](https://github.com/tornadoweb/tornado/issues) [![Downloads](https://img.shields.io/pypi/dw/tornado)](https://pypi.org/project/tornado/) [![GitHub last commit](https://img.shields.io/github/last-commit/tornadoweb/tornado)](https://github.com/tornadoweb/tornado/commits) 
-- [dash](https://github.com/plotly/dash): Data Apps & Dashboards for Python. No JavaScript Required. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/plotly/dash.svg?style=social)](https://github.com/plotly/dash) [![GitHub issues](https://img.shields.io/github/issues/plotly/dash.svg)](https://github.com/plotly/dash/issues) [![Downloads](https://img.shields.io/pypi/dw/dash)](https://pypi.org/project/dash/) [![GitHub last commit](https://img.shields.io/github/last-commit/plotly/dash)](https://github.com/plotly/dash/commits) 
 - [gradio](https://github.com/gradio-app/gradio): Create UIs for your machine learning model in Python in 3 minutes 
 
   [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio.svg?style=social)](https://github.com/gradio-app/gradio) [![GitHub issues](https://img.shields.io/github/issues/gradio-app/gradio.svg)](https://github.com/gradio-app/gradio/issues) [![Downloads](https://img.shields.io/pypi/dw/gradio)](https://pypi.org/project/gradio/) [![GitHub last commit](https://img.shields.io/github/last-commit/gradio-app/gradio)](https://github.com/gradio-app/gradio/commits) 
+- [dash](https://github.com/plotly/dash): Data Apps & Dashboards for Python. No JavaScript Required. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/plotly/dash.svg?style=social)](https://github.com/plotly/dash) [![GitHub issues](https://img.shields.io/github/issues/plotly/dash.svg)](https://github.com/plotly/dash/issues) [![Downloads](https://img.shields.io/pypi/dw/dash)](https://pypi.org/project/dash/) [![GitHub last commit](https://img.shields.io/github/last-commit/plotly/dash)](https://github.com/plotly/dash/commits) 
 - [sanic](https://github.com/sanic-org/sanic):  Accelerate your web app development  | Build fast. Run fast. 
 
   [![GitHub stars](https://img.shields.io/github/stars/sanic-org/sanic.svg?style=social)](https://github.com/sanic-org/sanic) [![GitHub issues](https://img.shields.io/github/issues/sanic-org/sanic.svg)](https://github.com/sanic-org/sanic/issues) [![Downloads](https://img.shields.io/pypi/dw/sanic)](https://pypi.org/project/sanic/) [![GitHub last commit](https://img.shields.io/github/last-commit/sanic-org/sanic)](https://github.com/sanic-org/sanic/commits) 
@@ -110,4 +110,4 @@ https://www.techempower.com/benchmarks/
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-06-18T08:05:55*
+*Last Automatic Update: 2023-06-25T08:05:54*
