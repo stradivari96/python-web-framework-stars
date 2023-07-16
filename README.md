@@ -16,12 +16,12 @@ https://www.techempower.com/benchmarks/
 - [serverless](https://github.com/serverless/serverless): ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –  
 
   [![GitHub stars](https://img.shields.io/github/stars/serverless/serverless.svg?style=social)](https://github.com/serverless/serverless) [![GitHub issues](https://img.shields.io/github/issues/serverless/serverless.svg)](https://github.com/serverless/serverless/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/serverless/serverless)](https://github.com/serverless/serverless/commits) 
-- [django-rest-framework](https://github.com/encode/django-rest-framework): Web APIs for Django. 🎸 
-
-  [![GitHub stars](https://img.shields.io/github/stars/encode/django-rest-framework.svg?style=social)](https://github.com/encode/django-rest-framework) [![GitHub issues](https://img.shields.io/github/issues/encode/django-rest-framework.svg)](https://github.com/encode/django-rest-framework/issues) [![Downloads](https://img.shields.io/pypi/dw/djangorestframework)](https://pypi.org/project/djangorestframework/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/django-rest-framework)](https://github.com/encode/django-rest-framework/commits) 
 - [streamlit](https://github.com/streamlit/streamlit): Streamlit — A faster way to build and share data apps. 
 
   [![GitHub stars](https://img.shields.io/github/stars/streamlit/streamlit.svg?style=social)](https://github.com/streamlit/streamlit) [![GitHub issues](https://img.shields.io/github/issues/streamlit/streamlit.svg)](https://github.com/streamlit/streamlit/issues) [![Downloads](https://img.shields.io/pypi/dw/streamlit)](https://pypi.org/project/streamlit/) [![GitHub last commit](https://img.shields.io/github/last-commit/streamlit/streamlit)](https://github.com/streamlit/streamlit/commits) 
+- [django-rest-framework](https://github.com/encode/django-rest-framework): Web APIs for Django. 🎸 
+
+  [![GitHub stars](https://img.shields.io/github/stars/encode/django-rest-framework.svg?style=social)](https://github.com/encode/django-rest-framework) [![GitHub issues](https://img.shields.io/github/issues/encode/django-rest-framework.svg)](https://github.com/encode/django-rest-framework/issues) [![Downloads](https://img.shields.io/pypi/dw/djangorestframework)](https://pypi.org/project/djangorestframework/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/django-rest-framework)](https://github.com/encode/django-rest-framework/commits) 
 - [tornado](https://github.com/tornadoweb/tornado): Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. 
 
   [![GitHub stars](https://img.shields.io/github/stars/tornadoweb/tornado.svg?style=social)](https://github.com/tornadoweb/tornado) [![GitHub issues](https://img.shields.io/github/issues/tornadoweb/tornado.svg)](https://github.com/tornadoweb/tornado/issues) [![Downloads](https://img.shields.io/pypi/dw/tornado)](https://pypi.org/project/tornado/) [![GitHub last commit](https://img.shields.io/github/last-commit/tornadoweb/tornado)](https://github.com/tornadoweb/tornado/commits) 
@@ -110,4 +110,4 @@ https://www.techempower.com/benchmarks/
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-07-09T08:05:46*
+*Last Automatic Update: 2023-07-16T08:05:42*
