@@ -25,7 +25,7 @@ https://www.techempower.com/benchmarks/
 - [tornado](https://github.com/tornadoweb/tornado): Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. 
 
   [![GitHub stars](https://img.shields.io/github/stars/tornadoweb/tornado.svg?style=social)](https://github.com/tornadoweb/tornado) [![GitHub issues](https://img.shields.io/github/issues/tornadoweb/tornado.svg)](https://github.com/tornadoweb/tornado/issues) [![Downloads](https://img.shields.io/pypi/dw/tornado)](https://pypi.org/project/tornado/) [![GitHub last commit](https://img.shields.io/github/last-commit/tornadoweb/tornado)](https://github.com/tornadoweb/tornado/commits) 
-- [gradio](https://github.com/gradio-app/gradio): Create UIs for your machine learning model in Python in 3 minutes 
+- [gradio](https://github.com/gradio-app/gradio): Build and share delightful machine learning apps, in Python 🌟 Star to support our work! 
 
   [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio.svg?style=social)](https://github.com/gradio-app/gradio) [![GitHub issues](https://img.shields.io/github/issues/gradio-app/gradio.svg)](https://github.com/gradio-app/gradio/issues) [![Downloads](https://img.shields.io/pypi/dw/gradio)](https://pypi.org/project/gradio/) [![GitHub last commit](https://img.shields.io/github/last-commit/gradio-app/gradio)](https://github.com/gradio-app/gradio/commits) 
 - [dash](https://github.com/plotly/dash): Data Apps & Dashboards for Python. No JavaScript Required. 
@@ -110,4 +110,4 @@ https://www.techempower.com/benchmarks/
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-08-06T08:06:13*
+*Last Automatic Update: 2023-08-13T08:05:27*
