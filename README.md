@@ -22,7 +22,7 @@ https://www.techempower.com/benchmarks/
 - [django-rest-framework](https://github.com/encode/django-rest-framework): Web APIs for Django. 🎸 
 
   [![GitHub stars](https://img.shields.io/github/stars/encode/django-rest-framework.svg?style=social)](https://github.com/encode/django-rest-framework) [![GitHub issues](https://img.shields.io/github/issues/encode/django-rest-framework.svg)](https://github.com/encode/django-rest-framework/issues) [![Downloads](https://img.shields.io/pypi/dw/djangorestframework)](https://pypi.org/project/djangorestframework/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/django-rest-framework)](https://github.com/encode/django-rest-framework/commits) 
-- [gradio](https://github.com/gradio-app/gradio): Build and share delightful machine learning apps, in Python 🌟 Star to support our work! 
+- [gradio](https://github.com/gradio-app/gradio): Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work! 
 
   [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio.svg?style=social)](https://github.com/gradio-app/gradio) [![GitHub issues](https://img.shields.io/github/issues/gradio-app/gradio.svg)](https://github.com/gradio-app/gradio/issues) [![Downloads](https://img.shields.io/pypi/dw/gradio)](https://pypi.org/project/gradio/) [![GitHub last commit](https://img.shields.io/github/last-commit/gradio-app/gradio)](https://github.com/gradio-app/gradio/commits) 
 - [tornado](https://github.com/tornadoweb/tornado): Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. 
@@ -70,21 +70,21 @@ https://www.techempower.com/benchmarks/
 - [pyramid](https://github.com/Pylons/pyramid): Pyramid - A Python web framework 
 
   [![GitHub stars](https://img.shields.io/github/stars/Pylons/pyramid.svg?style=social)](https://github.com/Pylons/pyramid) [![GitHub issues](https://img.shields.io/github/issues/Pylons/pyramid.svg)](https://github.com/Pylons/pyramid/issues) [![Downloads](https://img.shields.io/pypi/dw/pyramid)](https://pypi.org/project/pyramid/) [![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/pyramid)](https://github.com/Pylons/pyramid/commits) 
-- [Zappa](https://github.com/zappa/Zappa): Serverless Python  
-
-  [![GitHub stars](https://img.shields.io/github/stars/zappa/Zappa.svg?style=social)](https://github.com/zappa/Zappa) [![GitHub issues](https://img.shields.io/github/issues/zappa/Zappa.svg)](https://github.com/zappa/Zappa/issues) [![Downloads](https://img.shields.io/pypi/dw/zappa)](https://pypi.org/project/zappa/) [![GitHub last commit](https://img.shields.io/github/last-commit/zappa/Zappa)](https://github.com/zappa/Zappa/commits) 
 - [litestar](https://github.com/litestar-org/litestar): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs 
 
   [![GitHub stars](https://img.shields.io/github/stars/litestar-org/litestar.svg?style=social)](https://github.com/litestar-org/litestar) [![GitHub issues](https://img.shields.io/github/issues/litestar-org/litestar.svg)](https://github.com/litestar-org/litestar/issues) [![Downloads](https://img.shields.io/pypi/dw/litestar)](https://pypi.org/project/litestar/) [![GitHub last commit](https://img.shields.io/github/last-commit/litestar-org/litestar)](https://github.com/litestar-org/litestar/commits) 
+- [Zappa](https://github.com/zappa/Zappa): Serverless Python  
+
+  [![GitHub stars](https://img.shields.io/github/stars/zappa/Zappa.svg?style=social)](https://github.com/zappa/Zappa) [![GitHub issues](https://img.shields.io/github/issues/zappa/Zappa.svg)](https://github.com/zappa/Zappa/issues) [![Downloads](https://img.shields.io/pypi/dw/zappa)](https://pypi.org/project/zappa/) [![GitHub last commit](https://img.shields.io/github/last-commit/zappa/Zappa)](https://github.com/zappa/Zappa/commits) 
 - [quart](https://github.com/pallets/quart): An async Python micro framework for building web applications.  
 
   [![GitHub stars](https://img.shields.io/github/stars/pallets/quart.svg?style=social)](https://github.com/pallets/quart) [![GitHub issues](https://img.shields.io/github/issues/pallets/quart.svg)](https://github.com/pallets/quart/issues) [![Downloads](https://img.shields.io/pypi/dw/quart)](https://pypi.org/project/quart/) [![GitHub last commit](https://img.shields.io/github/last-commit/pallets/quart)](https://github.com/pallets/quart/commits) 
-- [web2py](https://github.com/web2py/web2py): Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/web2py/web2py.svg?style=social)](https://github.com/web2py/web2py) [![GitHub issues](https://img.shields.io/github/issues/web2py/web2py.svg)](https://github.com/web2py/web2py/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/web2py/web2py)](https://github.com/web2py/web2py/commits) 
 - [masonite](https://github.com/MasoniteFramework/masonite): The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ 
 
   [![GitHub stars](https://img.shields.io/github/stars/MasoniteFramework/masonite.svg?style=social)](https://github.com/MasoniteFramework/masonite) [![GitHub issues](https://img.shields.io/github/issues/MasoniteFramework/masonite.svg)](https://github.com/MasoniteFramework/masonite/issues) [![Downloads](https://img.shields.io/pypi/dw/masonite)](https://pypi.org/project/masonite/) [![GitHub last commit](https://img.shields.io/github/last-commit/MasoniteFramework/masonite)](https://github.com/MasoniteFramework/masonite/commits) 
+- [web2py](https://github.com/web2py/web2py): Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/web2py/web2py.svg?style=social)](https://github.com/web2py/web2py) [![GitHub issues](https://img.shields.io/github/issues/web2py/web2py.svg)](https://github.com/web2py/web2py/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/web2py/web2py)](https://github.com/web2py/web2py/commits) 
 - [flask-restx](https://github.com/python-restx/flask-restx): Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask 
 
   [![GitHub stars](https://img.shields.io/github/stars/python-restx/flask-restx.svg?style=social)](https://github.com/python-restx/flask-restx) [![GitHub issues](https://img.shields.io/github/issues/python-restx/flask-restx.svg)](https://github.com/python-restx/flask-restx/issues) [![Downloads](https://img.shields.io/pypi/dw/flask-restx)](https://pypi.org/project/flask-restx/) [![GitHub last commit](https://img.shields.io/github/last-commit/python-restx/flask-restx)](https://github.com/python-restx/flask-restx/commits) 
@@ -110,4 +110,4 @@ https://www.techempower.com/benchmarks/
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-08-27T08:05:48*
+*Last Automatic Update: 2023-09-03T08:05:25*
