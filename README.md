@@ -46,9 +46,6 @@ https://www.techempower.com/benchmarks/
 - [starlette](https://github.com/encode/starlette): The little ASGI framework that shines. 🌟 
 
   [![GitHub stars](https://img.shields.io/github/stars/encode/starlette.svg?style=social)](https://github.com/encode/starlette) [![GitHub issues](https://img.shields.io/github/issues/encode/starlette.svg)](https://github.com/encode/starlette/issues) [![Downloads](https://img.shields.io/pypi/dw/starlette)](https://pypi.org/project/starlette/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/starlette)](https://github.com/encode/starlette/commits) 
-- [bottle](https://github.com/bottlepy/bottle): bottle.py is a fast and simple micro-framework for python web-applications. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/bottlepy/bottle.svg?style=social)](https://github.com/bottlepy/bottle) [![GitHub issues](https://img.shields.io/github/issues/bottlepy/bottle.svg)](https://github.com/bottlepy/bottle/issues) [![Downloads](https://img.shields.io/pypi/dw/bottle)](https://pypi.org/project/bottle/) [![GitHub last commit](https://img.shields.io/github/last-commit/bottlepy/bottle)](https://github.com/bottlepy/bottle/commits) 
 - [hug](https://github.com/hugapi/hug): Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler. 
 
   [![GitHub stars](https://img.shields.io/github/stars/hugapi/hug.svg?style=social)](https://github.com/hugapi/hug) [![GitHub issues](https://img.shields.io/github/issues/hugapi/hug.svg)](https://github.com/hugapi/hug/issues) [![Downloads](https://img.shields.io/pypi/dw/hug)](https://pypi.org/project/hug/) [![GitHub last commit](https://img.shields.io/github/last-commit/hugapi/hug)](https://github.com/hugapi/hug/commits) 
@@ -100,6 +97,9 @@ https://www.techempower.com/benchmarks/
 
 ⚠️ No longer maintained ⚠️
 
+- [bottle](https://github.com/bottlepy/bottle): bottle.py is a fast and simple micro-framework for python web-applications. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/bottlepy/bottle.svg?style=social)](https://github.com/bottlepy/bottle) [![GitHub issues](https://img.shields.io/github/issues/bottlepy/bottle.svg)](https://github.com/bottlepy/bottle/issues) [![Downloads](https://img.shields.io/pypi/dw/bottle)](https://pypi.org/project/bottle/) [![GitHub last commit](https://img.shields.io/github/last-commit/bottlepy/bottle)](https://github.com/bottlepy/bottle/commits) 
 - [vibora](https://github.com/vibora-io/vibora): Fast, asynchronous and elegant Python web framework. 
 
   [![GitHub stars](https://img.shields.io/github/stars/vibora-io/vibora.svg?style=social)](https://github.com/vibora-io/vibora) [![GitHub issues](https://img.shields.io/github/issues/vibora-io/vibora.svg)](https://github.com/vibora-io/vibora/issues) [![Downloads](https://img.shields.io/pypi/dw/vibora)](https://pypi.org/project/vibora/) [![GitHub last commit](https://img.shields.io/github/last-commit/vibora-io/vibora)](https://github.com/vibora-io/vibora/commits) 
@@ -110,4 +110,4 @@ https://www.techempower.com/benchmarks/
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-09-03T08:05:25*
+*Last Automatic Update: 2023-09-10T08:05:49*
