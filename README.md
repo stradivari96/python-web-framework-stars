@@ -67,7 +67,7 @@ https://www.techempower.com/benchmarks/
 - [pyramid](https://github.com/Pylons/pyramid): Pyramid - A Python web framework 
 
   [![GitHub stars](https://img.shields.io/github/stars/Pylons/pyramid.svg?style=social)](https://github.com/Pylons/pyramid) [![GitHub issues](https://img.shields.io/github/issues/Pylons/pyramid.svg)](https://github.com/Pylons/pyramid/issues) [![Downloads](https://img.shields.io/pypi/dw/pyramid)](https://pypi.org/project/pyramid/) [![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/pyramid)](https://github.com/Pylons/pyramid/commits) 
-- [litestar](https://github.com/litestar-org/litestar): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs 
+- [litestar](https://github.com/litestar-org/litestar): Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs 
 
   [![GitHub stars](https://img.shields.io/github/stars/litestar-org/litestar.svg?style=social)](https://github.com/litestar-org/litestar) [![GitHub issues](https://img.shields.io/github/issues/litestar-org/litestar.svg)](https://github.com/litestar-org/litestar/issues) [![Downloads](https://img.shields.io/pypi/dw/litestar)](https://pypi.org/project/litestar/) [![GitHub last commit](https://img.shields.io/github/last-commit/litestar-org/litestar)](https://github.com/litestar-org/litestar/commits) 
 - [Zappa](https://github.com/zappa/Zappa): Serverless Python  
@@ -110,4 +110,4 @@ https://www.techempower.com/benchmarks/
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-09-17T08:05:44*
+*Last Automatic Update: 2023-09-24T08:05:46*
