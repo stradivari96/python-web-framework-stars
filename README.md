@@ -46,12 +46,12 @@ https://www.techempower.com/benchmarks/
 - [starlette](https://github.com/encode/starlette): The little ASGI framework that shines. 🌟 
 
   [![GitHub stars](https://img.shields.io/github/stars/encode/starlette.svg?style=social)](https://github.com/encode/starlette) [![GitHub issues](https://img.shields.io/github/issues/encode/starlette.svg)](https://github.com/encode/starlette/issues) [![Downloads](https://img.shields.io/pypi/dw/starlette)](https://pypi.org/project/starlette/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/starlette)](https://github.com/encode/starlette/commits) 
-- [hug](https://github.com/hugapi/hug): Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler. 
-
-  [![GitHub stars](https://img.shields.io/github/stars/hugapi/hug.svg?style=social)](https://github.com/hugapi/hug) [![GitHub issues](https://img.shields.io/github/issues/hugapi/hug.svg)](https://github.com/hugapi/hug/issues) [![Downloads](https://img.shields.io/pypi/dw/hug)](https://pypi.org/project/hug/) [![GitHub last commit](https://img.shields.io/github/last-commit/hugapi/hug)](https://github.com/hugapi/hug/commits) 
 - [flet](https://github.com/flet-dev/flet): Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required. 
 
   [![GitHub stars](https://img.shields.io/github/stars/flet-dev/flet.svg?style=social)](https://github.com/flet-dev/flet) [![GitHub issues](https://img.shields.io/github/issues/flet-dev/flet.svg)](https://github.com/flet-dev/flet/issues) [![Downloads](https://img.shields.io/pypi/dw/flet)](https://pypi.org/project/flet/) [![GitHub last commit](https://img.shields.io/github/last-commit/flet-dev/flet)](https://github.com/flet-dev/flet/commits) 
+- [hug](https://github.com/hugapi/hug): Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/hugapi/hug.svg?style=social)](https://github.com/hugapi/hug) [![GitHub issues](https://img.shields.io/github/issues/hugapi/hug.svg)](https://github.com/hugapi/hug/issues) [![Downloads](https://img.shields.io/pypi/dw/hug)](https://pypi.org/project/hug/) [![GitHub last commit](https://img.shields.io/github/last-commit/hugapi/hug)](https://github.com/hugapi/hug/commits) 
 - [eve](https://github.com/pyeve/eve): REST API framework designed for human beings 
 
   [![GitHub stars](https://img.shields.io/github/stars/pyeve/eve.svg?style=social)](https://github.com/pyeve/eve) [![GitHub issues](https://img.shields.io/github/issues/pyeve/eve.svg)](https://github.com/pyeve/eve/issues) [![Downloads](https://img.shields.io/pypi/dw/Eve)](https://pypi.org/project/Eve/) [![GitHub last commit](https://img.shields.io/github/last-commit/pyeve/eve)](https://github.com/pyeve/eve/commits) 
@@ -110,4 +110,4 @@ https://www.techempower.com/benchmarks/
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-10-01T08:05:50*
+*Last Automatic Update: 2023-10-08T08:05:38*
