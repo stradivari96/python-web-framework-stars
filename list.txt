@@ -34,3 +34,5 @@ https://github.com/zappa/Zappa zappa
 https://github.com/cirospaciari/socketify.py socketify
 https://github.com/emmett-framework/granian granian
 https://github.com/miguelgrinberg/microdot microdot
+https://github.com/squeaky-pl/japronto japronto
+https://github.com/encode/uvicorn uvicorn
