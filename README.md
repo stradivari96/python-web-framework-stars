@@ -94,6 +94,12 @@ https://www.techempower.com/benchmarks/
 - [socketify.py](https://github.com/cirospaciari/socketify.py): Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3 
 
   [![GitHub stars](https://img.shields.io/github/stars/cirospaciari/socketify.py.svg?style=social)](https://github.com/cirospaciari/socketify.py) [![GitHub issues](https://img.shields.io/github/issues/cirospaciari/socketify.py.svg)](https://github.com/cirospaciari/socketify.py/issues) [![Downloads](https://img.shields.io/pypi/dw/socketify)](https://pypi.org/project/socketify/) [![GitHub last commit](https://img.shields.io/github/last-commit/cirospaciari/socketify.py)](https://github.com/cirospaciari/socketify.py/commits) 
+- [granian](https://github.com/emmett-framework/granian): A Rust HTTP server for Python applications 
+
+  [![GitHub stars](https://img.shields.io/github/stars/emmett-framework/granian.svg?style=social)](https://github.com/emmett-framework/granian) [![GitHub issues](https://img.shields.io/github/issues/emmett-framework/granian.svg)](https://github.com/emmett-framework/granian/issues) [![Downloads](https://img.shields.io/pypi/dw/granian)](https://pypi.org/project/granian/) [![GitHub last commit](https://img.shields.io/github/last-commit/emmett-framework/granian)](https://github.com/emmett-framework/granian/commits) 
+- [microdot](https://github.com/miguelgrinberg/microdot): The impossibly small web framework for Python and MicroPython. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/miguelgrinberg/microdot.svg?style=social)](https://github.com/miguelgrinberg/microdot) [![GitHub issues](https://img.shields.io/github/issues/miguelgrinberg/microdot.svg)](https://github.com/miguelgrinberg/microdot/issues) [![Downloads](https://img.shields.io/pypi/dw/microdot)](https://pypi.org/project/microdot/) [![GitHub last commit](https://img.shields.io/github/last-commit/miguelgrinberg/microdot)](https://github.com/miguelgrinberg/microdot/commits) 
 
 ⚠️ No longer maintained ⚠️
 
@@ -110,4 +116,4 @@ https://www.techempower.com/benchmarks/
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-11-12T08:05:31*
+*Last Automatic Update: 2023-11-18T21:10:39*
