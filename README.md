@@ -49,6 +49,9 @@ https://www.techempower.com/benchmarks/
 - [flet](https://github.com/flet-dev/flet): Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required. 
 
   [![GitHub stars](https://img.shields.io/github/stars/flet-dev/flet.svg?style=social)](https://github.com/flet-dev/flet) [![GitHub issues](https://img.shields.io/github/issues/flet-dev/flet.svg)](https://github.com/flet-dev/flet/issues) [![Downloads](https://img.shields.io/pypi/dw/flet)](https://pypi.org/project/flet/) [![GitHub last commit](https://img.shields.io/github/last-commit/flet-dev/flet)](https://github.com/flet-dev/flet/commits) 
+- [uvicorn](https://github.com/encode/uvicorn): An ASGI web server, for Python. 🦄 
+
+  [![GitHub stars](https://img.shields.io/github/stars/encode/uvicorn.svg?style=social)](https://github.com/encode/uvicorn) [![GitHub issues](https://img.shields.io/github/issues/encode/uvicorn.svg)](https://github.com/encode/uvicorn/issues) [![Downloads](https://img.shields.io/pypi/dw/uvicorn)](https://pypi.org/project/uvicorn/) [![GitHub last commit](https://img.shields.io/github/last-commit/encode/uvicorn)](https://github.com/encode/uvicorn/commits) 
 - [hug](https://github.com/hugapi/hug): Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler. 
 
   [![GitHub stars](https://img.shields.io/github/stars/hugapi/hug.svg?style=social)](https://github.com/hugapi/hug) [![GitHub issues](https://img.shields.io/github/issues/hugapi/hug.svg)](https://github.com/hugapi/hug/issues) [![Downloads](https://img.shields.io/pypi/dw/hug)](https://pypi.org/project/hug/) [![GitHub last commit](https://img.shields.io/github/last-commit/hugapi/hug)](https://github.com/hugapi/hug/commits) 
@@ -103,6 +106,9 @@ https://www.techempower.com/benchmarks/
 
 ⚠️ No longer maintained ⚠️
 
+- [japronto](https://github.com/squeaky-pl/japronto):  Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser. 
+
+  [![GitHub stars](https://img.shields.io/github/stars/squeaky-pl/japronto.svg?style=social)](https://github.com/squeaky-pl/japronto) [![GitHub issues](https://img.shields.io/github/issues/squeaky-pl/japronto.svg)](https://github.com/squeaky-pl/japronto/issues) [![Downloads](https://img.shields.io/pypi/dw/japronto)](https://pypi.org/project/japronto/) [![GitHub last commit](https://img.shields.io/github/last-commit/squeaky-pl/japronto)](https://github.com/squeaky-pl/japronto/commits) 
 - [bottle](https://github.com/bottlepy/bottle): bottle.py is a fast and simple micro-framework for python web-applications. 
 
   [![GitHub stars](https://img.shields.io/github/stars/bottlepy/bottle.svg?style=social)](https://github.com/bottlepy/bottle) [![GitHub issues](https://img.shields.io/github/issues/bottlepy/bottle.svg)](https://github.com/bottlepy/bottle/issues) [![Downloads](https://img.shields.io/pypi/dw/bottle)](https://pypi.org/project/bottle/) [![GitHub last commit](https://img.shields.io/github/last-commit/bottlepy/bottle)](https://github.com/bottlepy/bottle/commits) 
@@ -116,4 +122,4 @@ https://www.techempower.com/benchmarks/
 
   [![GitHub stars](https://img.shields.io/github/stars/flask-api/flask-api.svg?style=social)](https://github.com/flask-api/flask-api) [![GitHub issues](https://img.shields.io/github/issues/flask-api/flask-api.svg)](https://github.com/flask-api/flask-api/issues) [![Downloads](https://img.shields.io/pypi/dw/Flask-API)](https://pypi.org/project/Flask-API/) [![GitHub last commit](https://img.shields.io/github/last-commit/flask-api/flask-api)](https://github.com/flask-api/flask-api/commits) 
 
-*Last Automatic Update: 2023-11-18T21:10:39*
+*Last Automatic Update: 2023-11-18T21:16:31*
